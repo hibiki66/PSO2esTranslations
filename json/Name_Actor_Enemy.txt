@@ -4310,6 +4310,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "SpiderRareMC9",
+		"jp_text": "覇滅ダーク・アグラニ",
+		"tr_text": ""
+	},
+	{
 		"assign": "BirdCentaurRareLD0",
 		"jp_text": "小型ノーヴ・リンガダール",
 		"tr_text": ""
@@ -4507,6 +4512,36 @@
 	{
 		"assign": "FishBigBeastMU1",
 		"jp_text": "未知アロナガーダ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdDpHumanUniqLB0",
+		"jp_text": "プロトファルス・カオス",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdDpHumanUniqLB1",
+		"jp_text": "プロトファルス・カオス",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdDpHumanUniqLB2",
+		"jp_text": "プロトファルス・カオス",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdDpHumanUniqLB3",
+		"jp_text": "プロトファルス・カオス",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdDpHumanUniqLB4",
+		"jp_text": "プロトファルス・カオス",
+		"tr_text": ""
+	},
+	{
+		"assign": "BirdDpHumanUniqLB5",
+		"jp_text": "プロトファルス・カオス",
 		"tr_text": ""
 	},
 	{

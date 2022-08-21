@@ -1,0 +1,2550 @@
+[
+	{
+		"jp_text": "C/スタミナⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタミナⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタミナⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタミナⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタミナⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピリタⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピリタⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピリタⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピリタⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピリタⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パワーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パワーⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パワーⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パワーⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パワーⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シュートⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シュートⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シュートⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シュートⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シュートⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/テクニックⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/テクニックⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/テクニックⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/テクニックⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/テクニックⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アームⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アームⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アームⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アームⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アームⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガードⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガードⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガードⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガードⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガードⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アビリティⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アビリティⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アビリティⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アビリティⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アビリティⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズ・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズ・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルズ・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルズ・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ドルズ・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ドルズ・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダイダル・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダイダル・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペダス・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペダス・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ネクス・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ネクス・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エアル・ノートＡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エアル・ノートＢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エアル・ノートＣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エアル・ノートＤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/マグヌ・ノート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ラボラタ・ノート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レゾラ・ノート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ハルヴス・ノート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エアル・ドミナ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタムダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スピレダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・アルムダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・アルムシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・アルムホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・ガーディホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・レジリホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・レジストⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルズ・セクレテⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルズ・セクレテⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・パワーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・パワーⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・シュートⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・シュートⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・テクニックⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・テクニックⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ドレド・キーパⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ドレド・キーパⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エスペリオⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エスペリオⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダシャ・ディアブルⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダシャ・ディアブルⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダシャ・ディアブルⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダホウ・ディアブルⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダホウ・ディアブルⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダホウ・ディアブルⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シャホウ・ディアブルⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シャホウ・ディアブルⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シャホウ・ディアブルⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ラグラス・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ラグラス・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ラグラス・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ドルズ・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スナイド・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スナイド・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スナイド・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レヌス・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レヌス・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レヌス・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルズ・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルズ・セクレテⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/リテナ・ノートＡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/リテナ・ノートＢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/リテナ・ノートＣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/リテナ・ノートＤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エルナ・ノート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/マクア・ノート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/リテナ・ドミナ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・パワーⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・シュートⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・テクニックⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ドレド・キーパⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ハイペリオ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタミナⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピリタⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パワーⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シュートⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/テクニックⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アームⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガードⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アビリティⅠS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズ・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルズ・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ドルズ・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルズ・セクレテⅠS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダシャ・ディアブルⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダホウ・ディアブルⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シャホウ・ディアブルⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタミナⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピリタⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アームⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガードⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダイダル・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パワーⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シュートⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/テクニックⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アビリティⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペダス・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ネクス・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルズ・セクレテⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・パワーⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・シュートⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・テクニックⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ドレド・キーパⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダシャ・ディアブルⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダホウ・ディアブルⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/シャホウ・ディアブルⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズ・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズマシニ・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズマシニ・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズマシニ・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズサンデ・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズサンデ・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズサンデ・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタムシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタムホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタピダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタピシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタピホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スピレシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スピレホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・ガーディダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・ガーディシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・レジリダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・レジリシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エラーディ・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エラーディ・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エラーディ・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダイダル・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペダス・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ネクス・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタム・パワー",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピレ・パワー",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルム・パワー",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガーディ・パワー",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタム・シュート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピレ・シュート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルム・シュート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガーディ・シュート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタム・テクニック",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピレ・テクニック",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルム・テクニック",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガーディ・テクニック",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/メガス・フュージア",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スタムロダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スピレロダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・アルムロダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・ガーディロダ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スタムロシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スピレロシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・アルムロシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・ガーディロシャ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スタムロホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スピレロホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・アルムロホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・ガーディロホウ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レイダル・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レイダル・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レイダル・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クロコス・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クロコス・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クロコス・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アムス・ソールⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アムス・ソールⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アムス・ソールⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クヴァル・ノートＡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クヴァル・ノートＢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クヴァル・ノートＣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クヴァル・ノートＤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ロストラ・ノート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ベルガン・ノート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クヴァル・ドミナ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アグライ・ソールＰ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エウティ・ソールＰ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/タリアー・ソールＰ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アグライ・ソールＨ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エウティ・ソールＨ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/タリアー・ソールＨ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アグライ・ソールＸ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エウティ・ソールＸ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/タリアー・ソールＸ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリアブル",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・アグライ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・エウティ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・タリアー",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スナイド・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レヌス・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズマシニ・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズサンデ・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ラグラス・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エラーディ・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタム・パワーS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピレ・パワーS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルム・パワーS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガーディ・パワーS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタム・シュートS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピレ・シュートS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルム・シュートS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガーディ・シュートS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スタム・テクニックS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スピレ・テクニックS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アルム・テクニックS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガーディ・テクニックS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アビリティⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・パワーⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・シュートⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・テクニックⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/スナイド・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レヌス・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズマシニ・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フォムズサンデ・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ラグラス・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クヴァル・ドミナS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アビリティⅣS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/エラーディ・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ダイダル・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペダス・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ネクス・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スタムロダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スピレロダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・アルムロダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・ガーディロダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スタムロシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スピレロシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・アルムロシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・ガーディロシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スタムロホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・スピレロホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・アルムロホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/トリア・ガーディロホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レイダル・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レイダル・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クロコス・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クロコス・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アムス・ソールⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アムス・ソールⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタムダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタムシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタムホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタピダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタピシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スタピホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スピレダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スピレシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・スピレホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・アルムダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・アルムシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・アルムホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・ガーディダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・ガーディシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・ガーディホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・レジリダS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・レジリシャS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アディ・レジリホウS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/バーンレジストⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/バーンレジストⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/バーンレジストⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/バーンレジストⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/バーンレジストⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フリーズレジストⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フリーズレジストⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フリーズレジストⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フリーズレジストⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フリーズレジストⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ショックレジストⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ショックレジストⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ショックレジストⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ショックレジストⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ショックレジストⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ミラージュレジストⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ミラージュレジストⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ミラージュレジストⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ミラージュレジストⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ミラージュレジストⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パニックレジストⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パニックレジストⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パニックレジストⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パニックレジストⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パニックレジストⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ポイズンレジストⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ポイズンレジストⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ポイズンレジストⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ポイズンレジストⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ポイズンレジストⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/オールレジストⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/オールレジストⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/オールレジストⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/オールレジストⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/オールレジストⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペインレジストⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペインレジストⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペインレジストⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペインレジストⅣ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペインレジストⅤ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/バーンレジストⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フリーズレジストⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ショックレジストⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ミラージュレジストⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/パニックレジストⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ポイズンレジストⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ペインレジストⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/オールレジストⅠS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/オールレジストⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・スタンダルドⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・スタンダルドⅡ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・スタンダルドⅢ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・パワー",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・シュート",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・テクニック",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・スタンダルドⅠS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・スタンダルドⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・スタンダルドⅢS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・パワーS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・シュートS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デコルド・テクニックS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/サンダーウィーカーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/アイスウィーカーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/フレイムウィーカーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ウィンドウィーカーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ライトウィーカーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/グルームウィーカーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デイタイムウィーカーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ナイトタイムウィーカーⅠ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	}
+]

@@ -455,6 +455,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "114081",
+		"jp_text": "￥ステルスウェポン：ＫＴ",
+		"tr_text": "",
+		"jp_explain": "ダミー８１",
+		"tr_explain": ""
+	},
+	{
 		"assign": "114085",
 		"jp_text": "ヴェクサネス",
 		"tr_text": "",
@@ -1411,6 +1418,188 @@
 		"jp_text": "闇征刀アジェルサーベル",
 		"tr_text": "",
 		"jp_explain": "自らの全てと引き換えにしても\n宇宙を護る決意が込められた抜剣。\n輪廻を断ち切る願いに満ちている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010004",
+		"jp_text": "プリムカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010005",
+		"jp_text": "ツヴィアカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010006",
+		"jp_text": "リサージュカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010007",
+		"jp_text": "トロワーデカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010009",
+		"jp_text": "フォーシスカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010010",
+		"jp_text": "[APC]プリムカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010012",
+		"jp_text": "シルヴァプリムカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010013",
+		"jp_text": "ゴルドプリムカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010031",
+		"jp_text": "ストラーガカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010014",
+		"jp_text": "エヴォルコートカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010019",
+		"jp_text": "フロステルカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010016",
+		"jp_text": "グレティーガカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010017",
+		"jp_text": "クィンテルカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010008",
+		"jp_text": "テンペスターカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010018",
+		"jp_text": "サンクエイムカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010030",
+		"jp_text": "￥フレーリアカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010020",
+		"jp_text": "ラゲードカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010015",
+		"jp_text": "オブスクラルカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010021",
+		"jp_text": "カイゼラムカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010023",
+		"jp_text": "ロクス・ラグフェンカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010022",
+		"jp_text": "ゼクストルカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010036",
+		"jp_text": "レリク・ディペンデンス",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010037",
+		"jp_text": "ククロゼアトカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010038",
+		"jp_text": "エヴォルオーヴァカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010044",
+		"jp_text": "レネッサカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010046",
+		"jp_text": "エヴォルイクリスカタナ",
+		"tr_text": "",
+		"jp_explain": "",
 		"tr_explain": ""
 	}
 ]

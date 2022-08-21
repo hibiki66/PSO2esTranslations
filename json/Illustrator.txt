@@ -3125,14 +3125,14 @@
 		"chip": "7085",
 		"jp_CV": "花澤香菜",
 		"tr_CV": "",
-		"jp_name": "コナタ　エル",
+		"jp_name": "コナタ エル",
 		"tr_name": ""
 	},
 	{
 		"chip": "7086",
 		"jp_CV": "花澤香菜",
 		"tr_CV": "",
-		"jp_name": "コナタ　エル",
+		"jp_name": "コナタ エル",
 		"tr_name": ""
 	},
 	{
@@ -9632,6 +9632,20 @@
 		"tr_name": ""
 	},
 	{
+		"chip": "8045",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "アーリーステージ",
+		"tr_name": ""
+	},
+	{
+		"chip": "8046",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "アーリーステージ",
+		"tr_name": ""
+	},
+	{
 		"chip": "8047",
 		"jp_CV": "田中有紀",
 		"tr_CV": "",
@@ -9648,6 +9662,972 @@
 	{
 		"chip": "8049",
 		"jp_CV": "田中有紀",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8050",
+		"jp_CV": "佐藤友啓",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8051",
+		"jp_CV": "佐藤友啓",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8052",
+		"jp_CV": "佐藤友啓",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8053",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8054",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8055",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8056",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8057",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8058",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8059",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8060",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8061",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8062",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8063",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8064",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8065",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8066",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8067",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8068",
+		"jp_CV": "田辺留依",
+		"tr_CV": "",
+		"jp_name": "うーた",
+		"tr_name": ""
+	},
+	{
+		"chip": "8069",
+		"jp_CV": "田辺留依",
+		"tr_CV": "",
+		"jp_name": "うーた",
+		"tr_name": ""
+	},
+	{
+		"chip": "8070",
+		"jp_CV": "江口拓也",
+		"tr_CV": "",
+		"jp_name": "笹原亜美",
+		"tr_name": ""
+	},
+	{
+		"chip": "8071",
+		"jp_CV": "江口拓也",
+		"tr_CV": "",
+		"jp_name": "笹原亜美",
+		"tr_name": ""
+	},
+	{
+		"chip": "8072",
+		"jp_CV": "江口拓也",
+		"tr_CV": "",
+		"jp_name": "笹原亜美",
+		"tr_name": ""
+	},
+	{
+		"chip": "8073",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "アーリーステージ",
+		"tr_name": ""
+	},
+	{
+		"chip": "8074",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "アーリーステージ",
+		"tr_name": ""
+	},
+	{
+		"chip": "8075",
+		"jp_CV": "阿部菜摘子",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8076",
+		"jp_CV": "阿部菜摘子",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8077",
+		"jp_CV": "阿部菜摘子",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8078",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8079",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8080",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8081",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8082",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8083",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8084",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8085",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8086",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "NULL",
+		"tr_name": ""
+	},
+	{
+		"chip": "8087",
+		"jp_CV": "皆川純子",
+		"tr_CV": "",
+		"jp_name": "うーた",
+		"tr_name": ""
+	},
+	{
+		"chip": "8088",
+		"jp_CV": "皆川純子",
+		"tr_CV": "",
+		"jp_name": "うーた",
+		"tr_name": ""
+	},
+	{
+		"chip": "8089",
+		"jp_CV": "皆川純子",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8090",
+		"jp_CV": "皆川純子",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8091",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8092",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8093",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8094",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8095",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8096",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "8097",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "8098",
+		"jp_CV": "佳村はるか",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8099",
+		"jp_CV": "佳村はるか",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8100",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8101",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8102",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "綾峰欄人",
+		"tr_name": ""
+	},
+	{
+		"chip": "8103",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "綾峰欄人",
+		"tr_name": ""
+	},
+	{
+		"chip": "8104",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8105",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8106",
+		"jp_CV": "立木文彦",
+		"tr_CV": "",
+		"jp_name": "笹原亜美",
+		"tr_name": ""
+	},
+	{
+		"chip": "8107",
+		"jp_CV": "立木文彦",
+		"tr_CV": "",
+		"jp_name": "笹原亜美",
+		"tr_name": ""
+	},
+	{
+		"chip": "8108",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "riritto",
+		"tr_name": ""
+	},
+	{
+		"chip": "8109",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "riritto",
+		"tr_name": ""
+	},
+	{
+		"chip": "8110",
+		"jp_CV": "安元洋貴",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8111",
+		"jp_CV": "安元洋貴",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8112",
+		"jp_CV": "安元洋貴",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8113",
+		"jp_CV": "石毛翔弥",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8114",
+		"jp_CV": "石毛翔弥",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8115",
+		"jp_CV": "千本木彩花",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8116",
+		"jp_CV": "千本木彩花",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8117",
+		"jp_CV": "篠原侑",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "8118",
+		"jp_CV": "篠原侑",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "8119",
+		"jp_CV": "田中有紀",
+		"tr_CV": "",
+		"jp_name": "セイロム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8120",
+		"jp_CV": "田中有紀",
+		"tr_CV": "",
+		"jp_name": "セイロム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8121",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8122",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8123",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8124",
+		"jp_CV": "唯野あかり",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "8125",
+		"jp_CV": "唯野あかり",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "8126",
+		"jp_CV": "佐藤友啓",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8127",
+		"jp_CV": "佐藤友啓",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8128",
+		"jp_CV": "赤羽根健治",
+		"tr_CV": "",
+		"jp_name": "水野暁一",
+		"tr_name": ""
+	},
+	{
+		"chip": "8129",
+		"jp_CV": "赤羽根健治",
+		"tr_CV": "",
+		"jp_name": "水野暁一",
+		"tr_name": ""
+	},
+	{
+		"chip": "8130",
+		"jp_CV": "赤羽根健治",
+		"tr_CV": "",
+		"jp_name": "水野暁一",
+		"tr_name": ""
+	},
+	{
+		"chip": "8133",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8134",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8135",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "8136",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "8137",
+		"jp_CV": "ゆかな",
+		"tr_CV": "",
+		"jp_name": "riritto",
+		"tr_name": ""
+	},
+	{
+		"chip": "8138",
+		"jp_CV": "ゆかな",
+		"tr_CV": "",
+		"jp_name": "riritto",
+		"tr_name": ""
+	},
+	{
+		"chip": "8139",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "riritto",
+		"tr_name": ""
+	},
+	{
+		"chip": "8140",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "riritto",
+		"tr_name": ""
+	},
+	{
+		"chip": "8141",
+		"jp_CV": "岡本信彦",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8142",
+		"jp_CV": "岡本信彦",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8143",
+		"jp_CV": "岡本信彦",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8144",
+		"jp_CV": "櫻井孝宏",
+		"tr_CV": "",
+		"jp_name": "riritto",
+		"tr_name": ""
+	},
+	{
+		"chip": "8145",
+		"jp_CV": "櫻井孝宏",
+		"tr_CV": "",
+		"jp_name": "riritto",
+		"tr_name": ""
+	},
+	{
+		"chip": "8146",
+		"jp_CV": "櫻井孝宏",
+		"tr_CV": "",
+		"jp_name": "riritto",
+		"tr_name": ""
+	},
+	{
+		"chip": "8147",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "8148",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "8149",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8150",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8151",
+		"jp_CV": "間島淳司",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8152",
+		"jp_CV": "間島淳司",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8153",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8154",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8155",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ニャロメロン",
+		"tr_name": ""
+	},
+	{
+		"chip": "8156",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ニャロメロン",
+		"tr_name": ""
+	},
+	{
+		"chip": "8157",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ニャロメロン",
+		"tr_name": ""
+	},
+	{
+		"chip": "8158",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ニャロメロン",
+		"tr_name": ""
+	},
+	{
+		"chip": "8159",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ニャロメロン",
+		"tr_name": ""
+	},
+	{
+		"chip": "8160",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ニャロメロン",
+		"tr_name": ""
+	},
+	{
+		"chip": "8161",
+		"jp_CV": "坂本真綾",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "8162",
+		"jp_CV": "坂本真綾",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "8163",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8164",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "woonak",
+		"tr_name": ""
+	},
+	{
+		"chip": "8165",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8166",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8167",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "8168",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8169",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8170",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ニャロメロン",
+		"tr_name": ""
+	},
+	{
+		"chip": "8171",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ニャロメロン",
+		"tr_name": ""
+	},
+	{
+		"chip": "8172",
+		"jp_CV": "黒沢ともよ",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "8173",
+		"jp_CV": "黒沢ともよ",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "8174",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8175",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8176",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "8177",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8178",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8179",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "*zoff",
+		"tr_name": ""
+	},
+	{
+		"chip": "8180",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "8181",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "8182",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "KWKM",
+		"tr_name": ""
+	},
+	{
+		"chip": "8183",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "KWKM",
+		"tr_name": ""
+	},
+	{
+		"chip": "8184",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "KWKM",
+		"tr_name": ""
+	},
+	{
+		"chip": "8185",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8186",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8187",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8188",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "T-TRACK",
+		"tr_name": ""
+	},
+	{
+		"chip": "8189",
+		"jp_CV": "NULL",
 		"tr_CV": "",
 		"jp_name": "T-TRACK",
 		"tr_name": ""

@@ -1482,5 +1482,194 @@
 		"tr_text": "",
 		"jp_explain": "自らの全てと引き換えにしても\n宇宙を護る決意が込められた両剣。\n閉じられた運命を背負っている。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "15010004",
+		"jp_text": "プリムセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010005",
+		"jp_text": "ツヴィアセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010006",
+		"jp_text": "リサージュセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010007",
+		"jp_text": "ヴィアルトセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010008",
+		"jp_text": "トロワーデセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010009",
+		"jp_text": "グリッセンセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010010",
+		"jp_text": "[APC]プリムセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010012",
+		"jp_text": "シルヴァプリムセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010013",
+		"jp_text": "ゴルドプリムセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010030",
+		"jp_text": "ストラーガセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010014",
+		"jp_text": "エヴォルコートセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010019",
+		"jp_text": "フロステルセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010015",
+		"jp_text": "フランメルセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010016",
+		"jp_text": "グレティーガセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010017",
+		"jp_text": "フィブラセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010029",
+		"jp_text": "￥ハディートセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010018",
+		"jp_text": "サンクエイムセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010020",
+		"jp_text": "ラゲードセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010021",
+		"jp_text": "カイゼラムセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010023",
+		"jp_text": "ロクス・クルーヴァセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010022",
+		"jp_text": "ゼクストルセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010032",
+		"jp_text": "ルメイラーセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010034",
+		"jp_text": "レリク・シップウハトウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010035",
+		"jp_text": "ククロゼアトセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010036",
+		"jp_text": "エヴォルオーヴァセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010040",
+		"jp_text": "レネッサセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "15010042",
+		"jp_text": "エヴォルイクリスセイバー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

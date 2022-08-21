@@ -490,6 +490,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "1150102",
+		"jp_text": "￥ステルスウェポン：ＢＷ",
+		"tr_text": "",
+		"jp_explain": "ダミー１０２",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1150108",
 		"jp_text": "クラテルダート",
 		"tr_text": "",
@@ -1390,6 +1397,181 @@
 		"jp_text": "闇征弓アジェルアーチェ",
 		"tr_text": "",
 		"jp_explain": "自らの全てと引き換えにしても\n宇宙を護る決意が込められた強弓。\n循環から逃れる強い意志を秘める。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010005",
+		"jp_text": "プリムボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010006",
+		"jp_text": "ツヴィアボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010007",
+		"jp_text": "リサージュボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010008",
+		"jp_text": "テルセウスボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010010",
+		"jp_text": "ヴィアルトボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010011",
+		"jp_text": "[APC]プリムボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010013",
+		"jp_text": "シルヴァプリムボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010014",
+		"jp_text": "ゴルドプリムボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010015",
+		"jp_text": "エヴォルコートボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010031",
+		"jp_text": "ストラーガボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010016",
+		"jp_text": "フランメルボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010017",
+		"jp_text": "グレティーガボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010018",
+		"jp_text": "フィブラボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010009",
+		"jp_text": "テンペスターボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010019",
+		"jp_text": "サンクエイムボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010020",
+		"jp_text": "ルメイラーボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010021",
+		"jp_text": "ラゲードボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010022",
+		"jp_text": "カイゼラムボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010023",
+		"jp_text": "ゼクストルボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010024",
+		"jp_text": "ロクス・クルーヴァボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010033",
+		"jp_text": "レリク・ベネディクト",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010035",
+		"jp_text": "ククロゼアトボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010036",
+		"jp_text": "エヴォルオーヴァボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010041",
+		"jp_text": "レネッサボウ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010043",
+		"jp_text": "エヴォルイクリスボウ",
+		"tr_text": "",
+		"jp_explain": "",
 		"tr_explain": ""
 	}
 ]

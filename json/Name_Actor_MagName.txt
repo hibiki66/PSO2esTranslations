@@ -110,6 +110,11 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "410001",
+		"jp_text": "マグ",
+		"tr_text": ""
+	},
+	{
 		"assign": "4101",
 		"jp_text": "ＲＲリコ",
 		"tr_text": ""
@@ -135,8 +140,108 @@
 		"tr_text": ""
 	},
 	{
+		"assign": "410503",
+		"jp_text": "ナディリスマグ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410550",
+		"jp_text": "Rマグミニモ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410551",
+		"jp_text": "アウトゥムミニモ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410552",
+		"jp_text": "ヴィンターミニモ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410553",
+		"jp_text": "スプリグミニモ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410554",
+		"jp_text": "フェリシテミニモ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410555",
+		"jp_text": "アニヴィスミニモ",
+		"tr_text": ""
+	},
+	{
 		"assign": "4106",
 		"jp_text": "モチュゴヤ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410602",
+		"jp_text": "テイルス人形",
+		"tr_text": ""
+	},
+	{
+		"assign": "410606",
+		"jp_text": "カラマール",
+		"tr_text": ""
+	},
+	{
+		"assign": "410607",
+		"jp_text": "アリーチェ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410608",
+		"jp_text": "デモーグ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410609",
+		"jp_text": "レラティ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410610",
+		"jp_text": "ウィル・オー",
+		"tr_text": ""
+	},
+	{
+		"assign": "410611",
+		"jp_text": "コクシスマキーナ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410612",
+		"jp_text": "マディロマキーナ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410613",
+		"jp_text": "アイシクルドラーナ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410614",
+		"jp_text": "フラワベル",
+		"tr_text": ""
+	},
+	{
+		"assign": "410615",
+		"jp_text": "マリッポマキーナ",
+		"tr_text": ""
+	},
+	{
+		"assign": "410626",
+		"jp_text": "ラッピー（ハルファ）",
+		"tr_text": ""
+	},
+	{
+		"assign": "410627",
+		"jp_text": "アニバ・ラッピー",
 		"tr_text": ""
 	},
 	{

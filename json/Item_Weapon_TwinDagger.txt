@@ -1496,5 +1496,194 @@
 		"tr_text": "",
 		"jp_explain": "乙女心を忘れない女性の機能的な戦闘服\nによく合う双小剣。フォトン反応で\n発光するフィンが戦闘を華麗に演出。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "14010006",
+		"jp_text": "プリムダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010007",
+		"jp_text": "ツヴィアダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010008",
+		"jp_text": "リサージュダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010009",
+		"jp_text": "フォーシスダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010010",
+		"jp_text": "[NPC]マノンのツインダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010011",
+		"jp_text": "トロワーデダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010012",
+		"jp_text": "[APC]プリムダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010014",
+		"jp_text": "シルヴァプリムダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010015",
+		"jp_text": "ゴルドプリムダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010017",
+		"jp_text": "エヴォルコートダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010031",
+		"jp_text": "ストラーガダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010019",
+		"jp_text": "グレティーガダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010020",
+		"jp_text": "ゴルシカダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010030",
+		"jp_text": "￥ジャレイオダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010021",
+		"jp_text": "サンクエイムダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010022",
+		"jp_text": "ルメイラーダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010023",
+		"jp_text": "ラゲードダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010018",
+		"jp_text": "オブスクラルダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010024",
+		"jp_text": "カイゼラムダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010026",
+		"jp_text": "ロクス・シージェムスダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010025",
+		"jp_text": "ゼクストルダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010033",
+		"jp_text": "フランメルダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010035",
+		"jp_text": "レリク・スコルハティ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010036",
+		"jp_text": "ククロゼアトダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010037",
+		"jp_text": "エヴォルオーヴァダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010043",
+		"jp_text": "レネッサダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010045",
+		"jp_text": "エヴォルイクリスダガー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

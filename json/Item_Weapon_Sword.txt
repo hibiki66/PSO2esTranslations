@@ -1664,5 +1664,194 @@
 		"tr_text": "",
 		"jp_explain": "ファルス・ヒューナルの持つ鋭刃を\n再現した大剣。禍々しい形の刃を持ち\n触れるものを微塵に切り裂いていく。",
 		"tr_explain": ""
+	},
+	{
+		"assign": "11010011",
+		"jp_text": "プリムソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010012",
+		"jp_text": "ツヴィアソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010013",
+		"jp_text": "リサージュソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010014",
+		"jp_text": "テルセウスソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010015",
+		"jp_text": "グリッセンソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010016",
+		"jp_text": "キャトリアソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010017",
+		"jp_text": "[APC]プリムソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010019",
+		"jp_text": "シルヴァプリムソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010020",
+		"jp_text": "ゴルドプリムソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010021",
+		"jp_text": "ストラーガソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010022",
+		"jp_text": "エヴォルコートソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010024",
+		"jp_text": "グレティーガソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010025",
+		"jp_text": "クィンテルソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010026",
+		"jp_text": "サンクエイムソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010037",
+		"jp_text": "￥フレーリアソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010027",
+		"jp_text": "ラゲードソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010036",
+		"jp_text": "ルメイラーソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010028",
+		"jp_text": "カイゼラムソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010029",
+		"jp_text": "ゼクストルソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010030",
+		"jp_text": "ロクス・ラグフェンソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010039",
+		"jp_text": "テンペスターソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010041",
+		"jp_text": "N-EXPウェポン",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010042",
+		"jp_text": "レリク・エンドイフ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010043",
+		"jp_text": "ククロゼアトソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010044",
+		"jp_text": "エヴォルオーヴァソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010054",
+		"jp_text": "レネッサソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010056",
+		"jp_text": "エヴォルイクリスソード",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
 	}
 ]

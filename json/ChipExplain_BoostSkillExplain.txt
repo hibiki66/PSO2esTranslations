@@ -11176,6 +11176,22 @@
 		"flag": 0
 	},
 	{
+		"assign": "32497",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 30％\\nCP を 15％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32498",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 30％\\nCP を 15％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
 		"assign": "32499",
 		"jp_explainShort": "属性値上限アップ",
 		"tr_explainShort": "",
@@ -11196,6 +11212,1110 @@
 		"jp_explainShort": "属性値上限アップ",
 		"tr_explainShort": "",
 		"jp_explainLong": "氷属性 の上限値が 20 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32502",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "風属性 の上限値が 20 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32503",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "風属性 の上限値が 20 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32504",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "風属性 の上限値が 20 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32505",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 5秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32506",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 5秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32507",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 5秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32508",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 5秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32509",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 5秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32510",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 5秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32511",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 5秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32512",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 5秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32513",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 5秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32514",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 5 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32515",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 5 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32516",
+		"jp_explainShort": "プレイヤーパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "プレイヤーの 攻撃力全般 を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32517",
+		"jp_explainShort": "プレイヤーパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "プレイヤーの 攻撃力全般 を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32518",
+		"jp_explainShort": "発動ＣＰダウン",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したアクティブチップの消費ＣＰが 10％ 減少する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32519",
+		"jp_explainShort": "発動ＣＰダウン",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したアクティブチップの消費ＣＰが 10％ 減少する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32520",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "闇属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32521",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "闇属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32522",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 10 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32523",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 10 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32524",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 10 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32525",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 30％\\nCP を 15％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32526",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 30％\\nCP を 15％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32527",
+		"jp_explainShort": "発動率アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したサポートチップの発動率が 25％ 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32528",
+		"jp_explainShort": "発動率アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したサポートチップの発動率が 25％ 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32529",
+		"jp_explainShort": "発動率アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したサポートチップの発動率が 25％ 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32530",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "氷属性 の上限値が 10 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32531",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "光属性 の上限値が 10 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32532",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "闇属性 の上限値が 10 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32533",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "炎属性 の上限値が 10 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32534",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "風属性 の上限値が 10 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32535",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "雷属性 の上限値が 10 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32536",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "光属性 の上限値が 10 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32537",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "氷属性 の上限値が 10 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32538",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "炎属性 の上限値が 10 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32539",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの CP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32540",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの CP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32541",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 炎属性 を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32542",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 炎属性 を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32543",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32544",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32545",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32546",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32547",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32548",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32549",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32550",
+		"jp_explainShort": "特定操作時ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＨＰが 5％ 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32551",
+		"jp_explainShort": "特定操作時ＨＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＨＰが 5％ 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32552",
+		"jp_explainShort": "発動率アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したサポートチップの発動率が 15％ 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32553",
+		"jp_explainShort": "発動率アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したサポートチップの発動率が 15％ 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32554",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの CP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32555",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの CP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32556",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 5 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32557",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 5 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32558",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "氷属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32559",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "氷属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32560",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 風属性 を 20％\\nHP を 5％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32561",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 風属性 を 20％\\nHP を 5％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32562",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "闇属性 が弱点の敵に対し\\nその属性によるダメージを 6％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32563",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "闇属性 が弱点の敵に対し\\nその属性によるダメージを 6％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32564",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "闇属性 が弱点の敵に対し\\nその属性によるダメージを 6％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32565",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32566",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32567",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 雷属性 を 5％\\nCP を 15％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32568",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 雷属性 を 5％\\nCP を 15％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32569",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 25％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32570",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 25％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32571",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32572",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 10％\\nCP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32573",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32574",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32575",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32576",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％\\nCP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32577",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％\\nCP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32578",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 30％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32579",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 30％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32580",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32581",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32582",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32585",
+		"jp_explainShort": "発動率アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したサポートチップの発動率が 15％ 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32586",
+		"jp_explainShort": "発動率アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したサポートチップの発動率が 15％ 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32587",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "炎属性 の上限値が 15 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32588",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "雷属性 の上限値が 15 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32589",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 氷属性 を 20％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32590",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 氷属性 を 20％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32591",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "光属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32592",
+		"jp_explainShort": "属性ダメージアップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "光属性 が弱点の敵に対し\\nその属性によるダメージを 4％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32593",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32594",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32595",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32596",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32597",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32598",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32599",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 20％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32600",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 20％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32601",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32602",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32603",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの CP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32604",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの CP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32605",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 5 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32606",
+		"jp_explainShort": "特定操作時ＣＰ回復",
+		"tr_explainShort": "",
+		"jp_explainLong": "スライド操作時 に\\nＣＰが 5 回復する。(発動確率： 小 )",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32607",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 炎属性 を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32608",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 氷属性 を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32609",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 雷属性 を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32610",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 風属性 を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32611",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 光属性 を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32612",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 闇属性 を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32613",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 光属性 を 10％\\nHP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32614",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 光属性 を 10％\\nHP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32615",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 風属性 を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32616",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 風属性 を 10％\\nCP を 10％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32617",
+		"jp_explainShort": "プレイヤーパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "プレイヤーの 攻撃力全般 を 100％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32618",
+		"jp_explainShort": "プレイヤーパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "プレイヤーの 攻撃力全般 を 100％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32619",
+		"jp_explainShort": "プレイヤーパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "プレイヤーの 攻撃力全般 を 100％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32620",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 30％\\nCP を 15％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32621",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 30％\\nCP を 15％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32622",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 3秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32623",
+		"jp_explainShort": "効果時間延長",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップのアビリティ効果時間を 3秒 延長する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32624",
+		"jp_explainShort": "発動率アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したサポートチップの発動率が 25％ 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32625",
+		"jp_explainShort": "発動率アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したサポートチップの発動率が 25％ 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32626",
+		"jp_explainShort": "プレイヤーパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "プレイヤーの 攻撃力全般 を 100％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32627",
+		"jp_explainShort": "プレイヤーパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "プレイヤーの 攻撃力全般 を 100％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32628",
+		"jp_explainShort": "プレイヤーパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "プレイヤーの 攻撃力全般 を 100％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32629",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "風属性 の上限値が 20 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32630",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "風属性 の上限値が 20 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32631",
+		"jp_explainShort": "属性値上限アップ",
+		"tr_explainShort": "",
+		"jp_explainLong": "風属性 の上限値が 20 上昇する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32632",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 光属性 を 20％\\nHP を 5％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32633",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの 光属性 を 20％\\nHP を 5％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32634",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32635",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32636",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32637",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32638",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32639",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 35％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32640",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％\\nCP を 25％ 増加する。",
+		"tr_explainLong": "",
+		"flag": 0
+	},
+	{
+		"assign": "32641",
+		"jp_explainShort": "チップパラメータ増加",
+		"tr_explainShort": "",
+		"jp_explainLong": "装備したチップの HP を 15％\\nCP を 25％ 増加する。",
 		"tr_explainLong": "",
 		"flag": 0
 	},

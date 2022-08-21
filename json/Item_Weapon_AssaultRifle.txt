@@ -1638,10 +1638,192 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "18010008",
+		"jp_text": "プリムライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010009",
+		"jp_text": "ツヴィアライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010010",
+		"jp_text": "リサージュライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010011",
+		"jp_text": "テルセウスライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010012",
+		"jp_text": "フォーシスライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010013",
+		"jp_text": "￥アイナのアサルトライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010014",
+		"jp_text": "[APC]プリムライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "180421",
 		"jp_text": "ヤスミノコフ５０００ＳＤ-NT",
 		"tr_text": "",
 		"jp_explain": "局地戦闘用に補修されたヤスミノコフ型\n長銃。砂漠、熱帯地帯でも高い性能を\n発揮できるように調整されている。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010016",
+		"jp_text": "シルヴァプリムライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010017",
+		"jp_text": "ゴルドプリムライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010019",
+		"jp_text": "エヴォルコートライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010034",
+		"jp_text": "ストラーガライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010020",
+		"jp_text": "フランメルライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010021",
+		"jp_text": "グレティーガライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010022",
+		"jp_text": "ゴルシカライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010018",
+		"jp_text": "テンペスターライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010023",
+		"jp_text": "サンクエイムライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010024",
+		"jp_text": "ルメイラーライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010025",
+		"jp_text": "ラゲードライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010026",
+		"jp_text": "カイゼラムライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010027",
+		"jp_text": "ゼクストルライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010028",
+		"jp_text": "ロクス・ラグフェンライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010037",
+		"jp_text": "レリク・ダークリベリオン",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010038",
+		"jp_text": "ククロゼアトライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010039",
+		"jp_text": "エヴォルオーヴァライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010043",
+		"jp_text": "レネッサライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010045",
+		"jp_text": "エヴォルイクリスライフル",
+		"tr_text": "",
+		"jp_explain": "",
 		"tr_explain": ""
 	}
 ]

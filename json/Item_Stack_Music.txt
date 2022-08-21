@@ -5643,7 +5643,7 @@
 	},
 	{
 		"assign": "3190992",
-		"jp_text": "MISSION：激震「待機所1」",
+		"jp_text": "逆境訓練「待機所1」",
 		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２７９（曲調変更可）\n『Divide Quests - Standby』",
 		"tr_explain": ""
@@ -5657,7 +5657,7 @@
 	},
 	{
 		"assign": "3190994",
-		"jp_text": "MISSION：激震「待機所2」",
+		"jp_text": "逆境訓練「待機所2」",
 		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２８１（曲調変更可）\n『Divide Quests - Last adversity』",
 		"tr_explain": ""
@@ -5688,6 +5688,293 @@
 		"jp_text": "ソダム戦",
 		"tr_text": "",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２８５（曲調変更可）\n『Dark To Light』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010000",
+		"jp_text": "検証用アイテム[NGS仕様]",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＢＧ ＃０１\n『検証用アイテム[NGS仕様]』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010001",
+		"jp_text": "戦いの歌 ～Against fate～",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『戦いの歌 ～Against fate～』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010002",
+		"jp_text": "弔いの歌～The beginning wind～",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『弔いの歌～The beginning wind～』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010003",
+		"jp_text": "Flare - Renus Retem",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Flare - Renus Retem』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010004",
+		"jp_text": "Growl from the Blazing Sky - Nex Aelio",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Growl from the Blazing Sky\n  - Nex Aelio』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010005",
+		"jp_text": "Skill Instruction",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Skill Instruction』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010006",
+		"jp_text": "Ordinary Life",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『Ordinary Life』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010007",
+		"jp_text": "Trainia - Cocoon - Stand-by",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Trainia - Cocoon - stand-by』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010008",
+		"jp_text": "Dark Falz - Second Invasion",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Dark Falz - Second Invasion』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010009",
+		"jp_text": "Trainia - Cocoon",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Trainia - Cocoon』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010010",
+		"jp_text": "Trainia - Tower",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Trainia - Tower』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010011",
+		"jp_text": "First Blow",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『First Blow』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010012",
+		"jp_text": "Dive into the World",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Dive into the World\n  - A World Beyond The Sky』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010013",
+		"jp_text": "Trainia - Tower - Stand-by",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Trainia - Tower - Stand-by』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010014",
+		"jp_text": "Banquet",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『Banquet』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010015",
+		"jp_text": "Power of Unity",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『Power of Unity』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010016",
+		"jp_text": "Aina's Decision",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『Aina's Decision』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010017",
+		"jp_text": "Uphill Struggle",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Uphill Struggle』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010018",
+		"jp_text": "Growl from the Blazing Sky - Nex Vera",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Growl from the Blazing Sky\n - Nex Vera』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010019",
+		"jp_text": "Formidable Gigantix",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Formidable Gigantix』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010024",
+		"jp_text": "Wing to radiance",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『Wing to radiance』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010025",
+		"jp_text": "希望色のグラティチュード",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『希望色のグラティチュード』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010026",
+		"jp_text": "￥ラジオ番組その１",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『￥ラジオ番組その１』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010027",
+		"jp_text": "￥ラジオ番組その２",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『￥ラジオ番組その２』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010028",
+		"jp_text": "￥ラジオ番組その３",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『￥ラジオ番組その３』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010029",
+		"jp_text": "￥ラジオ番組その４",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『￥ラジオ番組その４』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010030",
+		"jp_text": "￥ラジオ番組その５",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。\n『￥ラジオ番組その５』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010031",
+		"jp_text": "Winds of Aelio - Day View",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Winds of Aelio - Day View』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010032",
+		"jp_text": "Winds of Aelio - Night View",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Winds of Aelio - Night View』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010033",
+		"jp_text": "Vanford Laboratory Ruins",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Vanford Laboratory Ruins』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010034",
+		"jp_text": "Resol Forest - Day View",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Resol Forest - Day View』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010035",
+		"jp_text": "Resol Forest - Night View",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Resol Forest - Night View』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010036",
+		"jp_text": "Halphia Lake - Scenery",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Halphia Lake』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010037",
+		"jp_text": "Mt. Magnus",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Mt. Magnus』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010038",
+		"jp_text": "Retem Atmosphere - Day View",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Retem Atmosphere - Day View』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010039",
+		"jp_text": "Retem Atmosphere - Night View",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Retem Atmosphere - Night View』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010040",
+		"jp_text": "North Retem - Night - Scenery",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『North Retem - Night - Scenery』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010041",
+		"jp_text": "Retem Alnothe",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Retem Alnothe』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010042",
+		"jp_text": "Inside the Rwh Maqead",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Inside the Rwh Maqead』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010043",
+		"jp_text": "Trainia - Trinitas - Stand-by",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Trainia - Trinitas - Stand-by』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010044",
+		"jp_text": "Trainia - Trinitas",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいミュージックが\n再生可能になるディスク。<yellow>※曲調変更可<c>\n『Trainia - Trinitas』",
 		"tr_explain": ""
 	}
 ]
