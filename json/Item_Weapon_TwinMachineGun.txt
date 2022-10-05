@@ -1939,6 +1939,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "110010043",
+		"jp_text": "クリスティアマシンガン",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "110010046",
 		"jp_text": "レネッサマシンガン",
 		"tr_text": "",
@@ -1948,6 +1955,13 @@
 	{
 		"assign": "110010048",
 		"jp_text": "エヴォルイクリスマシンガン",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "110010050",
+		"jp_text": "オブゾディアマシンガン",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
