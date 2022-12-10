@@ -1568,41 +1568,6 @@
 		"tr_explain": ""
 	},
 	{
-		"assign": "12010019",
-		"jp_text": "ラゲードワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010020",
-		"jp_text": "カイゼラムワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010021",
-		"jp_text": "ゼクストルワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010022",
-		"jp_text": "ロクス・シージェムスワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010023",
-		"jp_text": "コルディークワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
 		"assign": "12010028",
 		"jp_text": "ルメイラーワイヤー",
 		"tr_text": "",
@@ -1619,48 +1584,6 @@
 	{
 		"assign": "12010031",
 		"jp_text": "ククロゼアトワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010032",
-		"jp_text": "エヴォルオーヴァワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010033",
-		"jp_text": "クリスティアワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010036",
-		"jp_text": "レネッサワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010038",
-		"jp_text": "エヴォルイクリスワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010041",
-		"jp_text": "オブゾディアワイヤー",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": ""
-	},
-	{
-		"assign": "12010045",
-		"jp_text": "カイゼラムワイヤー試製壱型",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
