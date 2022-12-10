@@ -1302,6 +1302,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "376015061",
+		"jp_text": "『PSO2』10周年SPセレクト券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "376010058",
 		"jp_text": "カジュアルコンフォート券",
 		"tr_text": "",
@@ -1381,6 +1388,272 @@
 	{
 		"assign": "376010070",
 		"jp_text": "ブライダルメモリーズ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020002",
+		"jp_text": "Ｇディヴィニティ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020003",
+		"jp_text": "リファインドフォーム４券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020005",
+		"jp_text": "オリジナルＣＢ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020006",
+		"jp_text": "オラクルリバイバル券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020007",
+		"jp_text": "ペルグリンスタイル券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020008",
+		"jp_text": "ハルファアークスＲ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020010",
+		"jp_text": "１０周年オラクルＭ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020011",
+		"jp_text": "ポウラレイメント券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020013",
+		"jp_text": "オリジナルＣＣ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020014",
+		"jp_text": "リワインドＣ２券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020015",
+		"jp_text": "メモリーズオブサマー券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020016",
+		"jp_text": "Sマリンスターズ'22券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020017",
+		"jp_text": "ウェイカーカパリンス券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020019",
+		"jp_text": "リワインドC3券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020020",
+		"jp_text": "シーサイドメモリーズ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020021",
+		"jp_text": "リファインドフォーム5券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020023",
+		"jp_text": "AC支援アイテムS3券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020024",
+		"jp_text": "Vストリーマーズ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020025",
+		"jp_text": "リワインドC4券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020026",
+		"jp_text": "フルムーンメモリーズ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020027",
+		"jp_text": "ムーンライトS'22券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020028",
+		"jp_text": "レミニセンスC2券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020029",
+		"jp_text": "リファインドフォーム6券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020031",
+		"jp_text": "Aディフェンダーズ'22券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020032",
+		"jp_text": "Pメモリーズ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376015076",
+		"jp_text": "秋'22スペシャルセレクト券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020033",
+		"jp_text": "メルティブラッドS券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020034",
+		"jp_text": "リファインドフォーム7券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020036",
+		"jp_text": "モンスターM'22券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020037",
+		"jp_text": "リワインドC5券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020038",
+		"jp_text": "ハロウィンメモリーズ券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020039",
+		"jp_text": "AC支援アイテムS4券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020040",
+		"jp_text": "セレスティアルセイント券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020041",
+		"jp_text": "リファインドフォーム8券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020043",
+		"jp_text": "オーバーロードスタイル券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020044",
+		"jp_text": "スナッグスタイル券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020045",
+		"jp_text": "リワインドC6券",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "376020046",
+		"jp_text": "ゴシックメモリーズ券",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
