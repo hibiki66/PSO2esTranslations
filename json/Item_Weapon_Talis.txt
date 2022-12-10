@@ -1757,6 +1757,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "112010029",
+		"jp_text": "プリムタリス・リブラ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "112010030",
 		"jp_text": "レリク・エクスペディシス",
 		"tr_text": "",
@@ -1785,6 +1792,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "112010034",
+		"jp_text": "セイガヨウタリス",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "112010036",
 		"jp_text": "レネッサタリス",
 		"tr_text": "",
@@ -1792,8 +1806,22 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "112010037",
+		"jp_text": "ガンブレイズタリス",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "112010038",
 		"jp_text": "エヴォルイクリスタリス",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010039",
+		"jp_text": "ククロフィスタリス",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
@@ -1808,6 +1836,13 @@
 	{
 		"assign": "112010045",
 		"jp_text": "カイゼラムタリス試製壱型",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "112010046",
+		"jp_text": "セイガインタリス",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
