@@ -25,10 +25,10 @@ LANGS = {-1: "JP",
          3: "CN"}
 # Add more later.
 parser.add_argument("-l", type = int, dest = "lang", action = "store",
-                    choices = [0, 1, 2, 3], default = 0, metavar = "N",
+                    choices = [0, 1, 2, 3], default = 3, metavar = "N",
                     help = ("Set a language to translate into. "
                             "Available options are 0 (EN), 1 (KO), 2 (RU) and 3 (CN). "
-                            "Defaults to EN."))
+                            "Defaults to CN."))
 
 # Switch for retranslating all descriptions.
 parser.add_argument("-r", dest = "redo", action = "store_true",
@@ -39,8 +39,8 @@ args = parser.parse_args()
 TRANS_ALL, LANG, REDO_ALL = args.all, args.lang, args.redo
 
 # Full width character transtable
-chartable = "".maketrans("０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ　＝－＋／．＆（）：！",
-                         "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz =-+/.&():!")
+chartable = "".maketrans("０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ　＝－＋／．＆（）",
+                         "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz =-+/.&()")
 
 # Translate layered wear
 
@@ -59,7 +59,7 @@ layer_desc_formats = [("Unlocks the new {itype}\n"
                       ("Разблокирует новую\n"
                        "{itype}\n"
                        "\"{iname}\"."),
-                      ("使用後可選用新的{itype} \n"
+                      ("使用後可選用新的{itype}\n"
                        "{iname}。")]
 
 layer_sex_locks = {"n": ["", "", "", ""],
@@ -81,7 +81,7 @@ ndesc_formats = ["Unlocks a new {itype} for use.",
 ntype_statements = ["Type: ",
                     "대응: ",
                     "Тип: ",
-                    "類型："]
+                    "適用於："]
 
 ntype_locks = {"a": ["All", "KO_All", "Все"],
                 "a1": ["Human/Cast Type 1", "인간형/캐스트타입1", "Человек/CAST (тип1)", "人類/機器人 類型1"],
@@ -284,7 +284,7 @@ cosmetic_desc_formats = [("Unlocks the {sexlock}{itype}\n"
                           "\"{iname}\"\n"
                           "для использования в салоне."),
                          ("使用後可選用新的{sexlock}{itype}\n"
-                          "{iname}")]
+                          "{iname}。")]
 
 cosmetic_sex_locks = {"m": ["male-only ", "남성 전용 ", "только для М", "男性專用"],
                       "f": ["female-only ", "여성 전용 ", "только для Ж", "女性專用"]}
@@ -819,6 +819,8 @@ cv_names = {
     "白上 フブキ": ["Shirakami Fubuki", "", "", ""],
     "影山 シエン": ["Kageyama Shien", "", "", ""],
     "一 伊那尓栖": ["Ninomae Ina'nis", "", "", ""],
+    "日野 聡": ["Satoshi Hino", "", "", ""],
+    "原 由実": ["Yumi Hara", "", "", ""],
     "Ｍ・Ａ・Ｏ": ["M・A・O", "M・A・O", "M・A・O", "M・A・O", ""],
     "？？？": ["???", "???", "???", "???"],
     "": ["Unknown", "알 수 없는", "Неизвестно", ""]
