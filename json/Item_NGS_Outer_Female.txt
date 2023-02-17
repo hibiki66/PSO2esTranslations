@@ -462,6 +462,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "アネモスジアーシャ/B[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "アネモスネーヴェ[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
@@ -470,6 +477,13 @@
 	},
 	{
 		"jp_text": "アネモスネーヴェ/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アネモスネーヴェ/B[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "",
