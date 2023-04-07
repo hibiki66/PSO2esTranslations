@@ -420,6 +420,48 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ゲツエイ・ボディUC",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ゲツエイ・アームUC",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ゲツエイ・レッグUC",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ゲツエイ・ボディMF",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ゲツエイ・アームMF",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ゲツエイ・レッグMF",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "スヴェラト・ボディ",
 		"tr_text": "",
 		"jp_explain": "",
@@ -715,6 +757,27 @@
 	},
 	{
 		"jp_text": "ヴォルキーア・レッグ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "エクラーナ・ボディ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "エクラーナ・アーム",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "エクラーナ・レッグ",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",

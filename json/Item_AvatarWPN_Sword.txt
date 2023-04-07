@@ -1442,22 +1442,8 @@
 		"tr_explain": ""
 	},
 	{
-		"assign": "101010065",
-		"jp_text": "＊ラゲードアルマティCV",
-		"tr_text": "",
-		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ナックル　ほか<c>",
-		"tr_explain": ""
-	},
-	{
 		"assign": "101010066",
 		"jp_text": "＊ゼクストルアルマティCV",
-		"tr_text": "",
-		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
-		"tr_explain": ""
-	},
-	{
-		"assign": "101010067",
-		"jp_text": "＊ロクス・ヴァッフェルアルマティCV",
 		"tr_text": "",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
 		"tr_explain": ""
@@ -1710,6 +1696,41 @@
 	{
 		"assign": "101010104",
 		"jp_text": "＊フォボスアルマティ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "101010105",
+		"jp_text": "＊ディムアルマティ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "101010106",
+		"jp_text": "＊ジュティスアルマティ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "101010107",
+		"jp_text": "＊シエンタヨウ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "101010112",
+		"jp_text": "＊リヴィーターアルマティ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "101010113",
+		"jp_text": "＊リヴィーターアルマティCV",
 		"tr_text": "",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
 		"tr_explain": ""

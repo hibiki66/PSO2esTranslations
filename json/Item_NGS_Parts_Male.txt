@@ -651,6 +651,48 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "アクラオ・ボディUC",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アクラオ・アームUC",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アクラオ・レッグUC",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アクラオ・ボディMF",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アクラオ・アームMF",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アクラオ・レッグMF",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "デザンナ・ボディ",
 		"tr_text": "",
 		"jp_explain": "",
@@ -981,6 +1023,27 @@
 	},
 	{
 		"jp_text": "ヴォルガルド・レッグ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "シュディング・ボディ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "シュディング・アーム",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "シュディング・レッグ",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",

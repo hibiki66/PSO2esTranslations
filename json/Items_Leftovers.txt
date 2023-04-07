@@ -2184,49 +2184,28 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "熱砂のリテムパック／タイプ1",
+		"jp_text": "熱砂のリテムパック/タイプ1",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "熱砂のリテムパック／タイプ2",
+		"jp_text": "熱砂のリテムパック/タイプ2",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "銀嶺のクヴァリスパック／タイプ1",
+		"jp_text": "銀嶺のクヴァリスパック/タイプ1",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "銀嶺のクヴァリスパック／タイプ2",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "紅蓮のスティアパック／タイプ1",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "紅蓮のスティアパック／タイプ2",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "アイアンウィル",
+		"jp_text": "銀嶺のクヴァリスパック/タイプ2",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
