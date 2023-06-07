@@ -777,13 +777,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "C/ハイペリオ",
-		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
 		"jp_text": "C/スタミナⅡS",
 		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
@@ -4011,13 +4004,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "C/サンダーウィーカーⅡ",
-		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
 		"jp_text": "C/アイスウィーカーⅡ",
 		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
@@ -4026,20 +4012,6 @@
 	},
 	{
 		"jp_text": "C/フレイムウィーカーⅡ",
-		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "C/ウィンドウィーカーⅡ",
-		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "C/ライトウィーカーⅡ",
 		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",
