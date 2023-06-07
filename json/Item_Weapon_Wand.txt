@@ -1876,8 +1876,36 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "113010057",
+		"jp_text": "テスア・ハイロカルウォンド",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "113010074",
 		"jp_text": "リヴィーターウォンド",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "113010072",
+		"jp_text": "エクステルウォンド",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "113010077",
+		"jp_text": "レヴォルコートウォンド",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "113010080",
+		"jp_text": "モノレクスウォンド",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""

@@ -371,7 +371,7 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Mo「待機：『せんとらるっ！』」",
+		"jp_text": "Mo「『せんとらるっ！』",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",
@@ -1099,7 +1099,7 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Mo「ダッシュ：ホバー2」",
+		"jp_text": "Mo「ダッシュ：ホバーダッシュ:2」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",
@@ -1799,13 +1799,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Mo「グライド：エアファイター」",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
 		"jp_text": "Mo「グライド：雲に乗る」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
@@ -2114,7 +2107,7 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Mo「グライド：翼を広げる/Ｃ」",
+		"jp_text": "Mo「グライド：翼を広げる/C」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",
