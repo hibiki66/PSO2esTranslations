@@ -824,5 +824,26 @@
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
+	},
+	{
+		"jp_text": "ライカスポーティ・ボディ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ライカスポーティ・アーム",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ライカスポーティ・レッグ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
 	}
 ]
