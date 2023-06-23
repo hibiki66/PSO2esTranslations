@@ -3682,13 +3682,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "C/エンディミオ",
-		"tr_text": "",
-		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
 		"jp_text": "C/エディ・スタムパルフト",
 		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
