@@ -2,518 +2,511 @@
 	{
 		"jp_text": "PH「数字『0』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『1』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『2』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『3』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『4』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『5』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『6』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『7』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『8』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『9』(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「エアル：コンテナ」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「エアル：コンテナB」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ポスター掲示板」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ラッピーミニドール」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ミャーン」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ラッピーぬいぐるみ」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ウエディングケーキ」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ナーゴ」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ビッグスター」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ビッグクレセント」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ササ・ツリー」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「障子」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「貝殻ベッド」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「『PSO2』11周年(Ob)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ラッピーライト」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「リリーパライト」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「メロン」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「マロン」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「砂城」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「砂山」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「グリーンパラソル」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「オレンジパラソル」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ゴーカ：パラソル」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「バナナボート」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「上向き矢印(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「下向き矢印(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「左向き矢印(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「右向き矢印(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『0』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『1』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『2』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『3』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『4』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『5』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『6』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『7』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『8』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「数字『9』(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「『NGS』ver.2ロゴ(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ラッピー：ご機嫌」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「エンペ・ラッピー：すりすり」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ラッピー：ダウン」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ムーニィ＆サニィ：ハート」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「マトイ：元気？」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ラッピー：すやすや」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「マロン：怒り」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ヒツギ：OK！」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「ヒツギ：うらやましい」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「リリーパ：眠たい」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「『PSO2』11周年(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「円形(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「大円形(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「正方形(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「大正方形(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「正三角形(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「大正三角形(Pa)」",
 		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "PH「text_fpobj_72_0001」",
-		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「下向き矢印(Ef)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「上向き矢印(Ef)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「YESフキダシ(Ef)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「NOフキダシ(Ef)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「VS(Ef)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「WIN(Ef)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "PH「『NGS』ver.2ロゴ(Ef)」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	}
