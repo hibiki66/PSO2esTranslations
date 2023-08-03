@@ -1771,6 +1771,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "13010051",
+		"jp_text": "ファーシュメルスピア",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "13010052",
 		"jp_text": "テスア・シュトルワルドスピア",
 		"tr_text": "",
@@ -1801,6 +1808,20 @@
 	{
 		"assign": "13010076",
 		"jp_text": "モノレクススピア",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "13010063",
+		"jp_text": "フリューガルドスピア",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "13010080",
+		"jp_text": "アルクエイムスピア",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""

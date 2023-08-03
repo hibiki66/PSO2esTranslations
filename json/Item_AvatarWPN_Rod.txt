@@ -642,5 +642,12 @@
 		"tr_text": "",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ロッド<c>",
 		"tr_explain": ""
+	},
+	{
+		"assign": "1011010009",
+		"jp_text": "＊ラッピージコミ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ロッド／カタナ　ほか<c><c>",
+		"tr_explain": ""
 	}
 ]

@@ -1813,6 +1813,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "19010047",
+		"jp_text": "ファーシュメルランチャー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "19010048",
 		"jp_text": "テスア・フレクシールランチャー",
 		"tr_text": "",
@@ -1843,6 +1850,20 @@
 	{
 		"assign": "19010065",
 		"jp_text": "モノレクスランチャー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010054",
+		"jp_text": "フリューガルドランチャー",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "19010066",
+		"jp_text": "アルクエイムランチャー",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""

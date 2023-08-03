@@ -1911,8 +1911,22 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "18010048",
+		"jp_text": "ファーシュメルライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "18010049",
 		"jp_text": "テスア・フレクシールライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010056",
+		"jp_text": "￥甲子園ダメージ＆換装_Aライフル",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""
@@ -1941,6 +1955,20 @@
 	{
 		"assign": "18010074",
 		"jp_text": "モノレクスライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010057",
+		"jp_text": "フリューガルドライフル",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010076",
+		"jp_text": "アルクエイムライフル",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""

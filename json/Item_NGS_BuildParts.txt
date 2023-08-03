@@ -112,6 +112,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「エレガントバスタブ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「モダンシャンデリア」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -127,6 +134,20 @@
 	},
 	{
 		"jp_text": "BP「ゴシックシャンデリア」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「プライベートプール」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「シーベイジングセット」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -161,6 +182,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ツキ・ミー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「鉱石標本」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ソニック」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -189,6 +224,41 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「サボテチェア」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「セガ・マークⅢ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「マスターシステム」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「メガドライブ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「セガサターン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ストライプチェア」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
@@ -204,6 +274,13 @@
 	},
 	{
 		"jp_text": "BP「キノコテーブル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「トレジャーボックス」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -262,6 +339,13 @@
 		"jp_text": "BP「ベンチ」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「バーカウンター」",
+		"tr_text": "",
+		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -364,6 +448,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「SEGAロゴ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウェスタンドア」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n開閉できるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「モダン・ウォッチ」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -392,6 +490,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「リフレスゼリー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ストレートシェルフ」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -406,7 +511,49 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「アクアボックス」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「フルーティーギフト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ミスティックプラント」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウォールランタン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ベルトコンベア」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「シャーベット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「デザートフラワー」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -443,7 +590,7 @@
 	{
 		"jp_text": "BP「ゴシックチェア」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -527,7 +674,7 @@
 	{
 		"jp_text": "BP「ベーシックソファP」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -651,6 +798,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「シャボテイン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「デザートグラース」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ベーシックベッド」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
@@ -736,6 +897,48 @@
 	},
 	{
 		"jp_text": "BP「ラッピーミニドール」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウェスタンベッド」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウェスタンソファ」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウェスタンローテーブル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウェスタンラグマット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウェスタンシェルフ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウェスタンシャンデリア」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -847,7 +1050,21 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ワンダートーテム」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「リリーパテント」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウォータータワー」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -875,6 +1092,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「シーベイジングセットB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「プライベートプールB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「ミニミニラッピーレース」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -892,6 +1123,251 @@
 		"jp_text": "BP「アシンメトリーソファ」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントシャンデリア」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントマット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントテーブル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントチェア」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントシェルフ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントベッド」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントベンチ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントスタンド」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントアート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントアーマー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントタペストリー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントキャンドル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「エレガントシンボル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ロイヤルチェア」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ロイヤルマット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ドームテント」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「バーベキューコンロ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ア・マクチ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ワイルドジャー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「物干しラック」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「キャンプランタン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「バ・テリー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ボ・エンキョ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「パイレーツキャノン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「錆びたイカリ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「海賊船の舵輪」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「カットスイカ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「メロンソーダ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「トロピカル・ブルー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ヤキソバ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ピクニックシート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「屋台」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「トンネルライト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「メンテナンスハンガー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クレーンアーム」",
+		"tr_text": "",
+		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -931,6 +1407,167 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「リゾートライト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートベッド」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートローテーブル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートチェア」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートソファ」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートラグ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートシェルフ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートスタンド」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートスクリーン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートロングチェア」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートサイドテーブル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートタペストリー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートパーム」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートプランター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートフルーツ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートプレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ヤシの実ドリンク」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートパンケーキ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートファン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートレリーフ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートサーフボード」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートマスク」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リゾートジャグジー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「マキバマット」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -959,7 +1596,21 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「カ・ヤリブタ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「壁かラッピー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ドラム・カンフロ」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -988,6 +1639,20 @@
 	},
 	{
 		"jp_text": "BP「ポスター掲示板」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「日よけスクリーン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「フーリン」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -1092,6 +1757,34 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ジュースサーバー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ラージシャーベット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ドームプール」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「シーリングファン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「リリーパカップル」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -1121,6 +1814,27 @@
 	},
 	{
 		"jp_text": "BP「マトイ（ミコト）ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「SEGAロゴB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「セガサターンNA」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「SEGA GENESIS」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -1213,14 +1927,14 @@
 	{
 		"jp_text": "BP「エアル：玄関」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n開閉できるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エアル：屋内ドア」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n開閉できるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -1234,7 +1948,7 @@
 	{
 		"jp_text": "BP「エアル：大型玄関」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n開閉できるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -1449,6 +2163,328 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「リテナ：基礎」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋外床B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋外床」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋内床B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋内床」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋上床」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋内小型床」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋内三角床」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋内三角床B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋上三角床」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：外壁」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：窓付き外壁」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：玄関」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n開閉できるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋内ドア」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n開閉できるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：外壁B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：大型玄関」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n開閉できるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：斜め外壁」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：窓付き斜め外壁」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：三角外壁」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：三角外壁B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：斜め屋根」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋外階段」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋内階段」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋内急階段」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：汎用支柱」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：梁」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋外支柱」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：大型梁」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：斜め大型梁」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：飾り布B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：飾り布C」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：飾り布」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋外柵」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：大玄関用ひさし」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋外三角床」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：屋根」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：ステージ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：螺旋階段」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：フロアハッチ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：給排気口」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：吊るし飾り」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：内壁」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゴーカ：アニマル芝床」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゴーカ：アニマル屋外柵」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「￥アセット範囲表示」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「￥アセットコントローラ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「エアル：樹木」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -1477,7 +2513,7 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "BP「エアル：汎用コンテナ」",
+		"jp_text": "BP「汎用コンテナ」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -1757,7 +2793,7 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "BP「エアル：汎用コンテナB」",
+		"jp_text": "BP「汎用コンテナB」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -2079,9 +3115,86 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「リテナ：チェア」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：テーブル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：吊り下げ鉱石ライト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：鉱石ライト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：ベッド」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：ソファ」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：収納棚」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：ローテーブル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：鉢植え」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：鉢植えB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「アークスデコイ」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\n自身のキャラクターを投影する\nビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：オットマン」",
+		"tr_text": "",
+		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -2094,6 +3207,265 @@
 	},
 	{
 		"jp_text": "BP「ラッピーぬいぐるみ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ツキミ・ラッピーぬいぐるみ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：サボテン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：サボテンB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：樹木」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：樹木B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：樹木C」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：樹木D」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：つる植物」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：低木」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：岩」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：岩B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：浮遊岩」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：浮遊岩B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：青光鉱石」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：緑光鉱石」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：トーチ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「焚火」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：汎用コンテナ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：標識」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：ポールライト」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：ポールライトB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：ポールライトC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：土のう」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：メモリアル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：アーチ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：流砂」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「バウワウ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「クーン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「キャメリオ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ノビルトリ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「マインタイマイ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：チェアB」",
+		"tr_text": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：テーブルB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：マット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：マットB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：タペストリー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：タペストリーB」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -2121,6 +3493,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ゴーカ：キャットタワー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「フットスイッチB」",
 		"tr_text": "",
 		"jp_explain": "上に乗っているあいだだけ\nスイッチがオンになる\nビルドパーツ。",
@@ -2142,6 +3521,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「リテナ：草」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：草B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「金色ラッピーぬいぐるみ」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -2156,7 +3549,28 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ラパントミニモ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「『NGS』2周年ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゴーカ：アニマル平均台」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ゴローニャ」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
@@ -2282,6 +3696,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「ツキミホログラフィック」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ツキミホログラフィックB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「クリエイティブスペース端末」",
 		"tr_text": "",
 		"jp_explain": "アクセスすると\nＣスペースメニューを操作できる\nビルドパーツ。",
@@ -2289,7 +3717,357 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "BP「リテナ：岩群」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：小サボテン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「リテナ：低木B」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「チームコマンド端末」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「チーム掲示板」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「【推しの子】：ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「【推しの子】：ポスターB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「【推しの子】：パネル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「チームスペース端末」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ハンター記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ファイター記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「レンジャー記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ガンナー記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「フォース記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「テクター記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ブレイバー記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「バウンサー記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ウェイカー記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スレイヤー記念プレート」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型立方体」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型球体」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型円柱」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型カプセル形状」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型円すい」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型三角柱」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型中空円柱」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型半球」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型円環体」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「立体図形：小型三角すい」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「異世界おじさん：パネル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「異世界おじさん：パネルB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「異世界おじさん：パネルC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「異世界おじさん：ポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「異世界おじさん：ポスターB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「異世界おじさん：ポスターC」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「異世界おじさん：マット」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「異世界おじさん：マットB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スクアロウ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「デルフィー」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ピッカリ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「アングラチョウチン」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「メガドライブ２」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「メガCD」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「スーパー32X」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "BP「SAC_2045×NGSポスター」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ロックオンカートリッジ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「メガドライブカートリッジ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ドンキ×ＮＧＳタオル」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ドンキ×ＮＧＳタオルB」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「ドンキ×ＮＧＳシャツ」",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "BP「異世界おじさん×ＮＧＳポスター」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
