@@ -2471,20 +2471,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "BP「￥アセット範囲表示」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "BP「￥アセットコントローラ」",
-		"tr_text": "",
-		"jp_explain": "",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
 		"jp_text": "BP「エアル：樹木」",
 		"tr_text": "",
 		"jp_explain": "",
@@ -3472,14 +3458,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "BP「ミニリージョンマグ」",
+		"jp_text": "BP「Rマグミニモ」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "BP「ミニリージョンマグB」",
+		"jp_text": "BP「アニヴィスミニモ」",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
