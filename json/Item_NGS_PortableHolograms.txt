@@ -70,14 +70,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "PH「汎用コンテナ」",
+		"jp_text": "PH「エアル：コンテナ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "PH「汎用コンテナB」",
+		"jp_text": "PH「エアル：コンテナB」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -834,13 +834,6 @@
 	},
 	{
 		"jp_text": "PH「レアドロップ（ドンキ×NGS）(Pa)」",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "PH「text_fpobj_72_0001」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",

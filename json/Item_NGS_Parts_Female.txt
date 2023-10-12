@@ -950,5 +950,26 @@
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
+	},
+	{
+		"jp_text": "ククールカウス・ボディ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ククールカウス・アーム",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ククールカウス・レッグ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": "",
+		"assign": 0
 	}
 ]

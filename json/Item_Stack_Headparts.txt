@@ -4522,6 +4522,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "316010041",
+		"jp_text": "N-クリミナル・ヘッド/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "316010042",
 		"jp_text": "N-クリミナル・ヘッド",
 		"tr_text": "",
@@ -4543,6 +4550,20 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "316010045",
+		"jp_text": "N-シュバル・ヘッド/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "316010046",
+		"jp_text": "N-シュバル・ヘッド/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
 		"assign": "316010047",
 		"jp_text": "フーディー・ヘッド",
 		"tr_text": "",
@@ -4559,6 +4580,20 @@
 	{
 		"assign": "316010050",
 		"jp_text": "ドゥーカー・ヘッドUC",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "316010051",
+		"jp_text": "N-ライナー・ヘッド/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "316010052",
+		"jp_text": "N-ライナー・ヘッドAF",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
 		"tr_explain": ""
@@ -4587,6 +4622,20 @@
 	{
 		"assign": "316010057",
 		"jp_text": "ディガーン・ヘッドAF",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "316010058",
+		"jp_text": "N-エグザギア・ヘッド/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "316010059",
+		"jp_text": "N-エグザギア・ヘッド/C",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
 		"tr_explain": ""
@@ -4755,6 +4804,27 @@
 	{
 		"assign": "316010096",
 		"jp_text": "トイフェント・ヘッドUC",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "316010097",
+		"jp_text": "N-エグザギア・ヘッド/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "316010098",
+		"jp_text": "フレズヴェルク＝アーテル・ヘッド",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "316010099",
+		"jp_text": "フレズヴェルク＝アーテル・ヘッド/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいヘッドパーツが\n選択可能になる。",
 		"tr_explain": ""
