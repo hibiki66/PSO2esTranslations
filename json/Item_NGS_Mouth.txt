@@ -161,14 +161,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "プニットタン",
+		"jp_text": "ギザトゥース",
 		"tr_text": "",
 		"jp_explain": "使用すると新しい歯・舌が\n選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "ギザトゥース",
+		"jp_text": "プニットタン",
 		"tr_text": "",
 		"jp_explain": "使用すると新しい歯・舌が\n選択可能になる。",
 		"tr_explain": "",
@@ -197,6 +197,13 @@
 	},
 	{
 		"jp_text": "リングピアッシートゥース",
+		"tr_text": "",
+		"jp_explain": "使用すると新しい歯・舌が\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ポイントメタリックトゥース",
 		"tr_text": "",
 		"jp_explain": "使用すると新しい歯・舌が\n選択可能になる。",
 		"tr_explain": "",
