@@ -1,26 +1,5 @@
 [
 	{
-		"jp_text": "Bg「リリーパＡ」",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "Bg「リリーパＢ」",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "Bg「リリーパＣ」",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
 		"jp_text": "Bg「異世界おじさんＡ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
@@ -43,6 +22,90 @@
 	},
 	{
 		"jp_text": "Bg「【推しの子】Ｂ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「リリーパＡ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「リリーパＢ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「スプリガンＡ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「スプリガンＢ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「スプリガンＣ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「リリーパＣ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「フレズヴェルク＝アーテル」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「フレズヴェルク＝アーテルG」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「フレズヴェルク＝アーテルG-SVV」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「フレズヴェルク＝アーテルG-BAV」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「CDジャケット1A」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「CDジャケット1B」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
 		"tr_explain": "",

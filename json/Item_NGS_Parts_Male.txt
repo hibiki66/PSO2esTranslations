@@ -1419,7 +1419,7 @@
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
-	}
+	},
 	{
 		"jp_text": "ギャレスト・ボディUC",
 		"tr_text": "",
