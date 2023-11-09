@@ -114,7 +114,7 @@
 	{
 		"jp_text": "BP「エレガントバスタブ」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n入浴できるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -2011,7 +2011,7 @@
 	{
 		"jp_text": "BP「リゾートロングチェア」",
 		"tr_text": "",
-		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -3971,7 +3971,7 @@
 	{
 		"jp_text": "BP「ゴーカ：デッキチェア」",
 		"tr_text": "",
-		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -5112,7 +5112,7 @@
 	{
 		"jp_text": "BP「ノクト：バスタブ」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n入浴できるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
