@@ -1694,14 +1694,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "\\STAMP 253",
+		"jp_text": "St「いやいや」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "\\STAMP 254",
+		"jp_text": "St「一休み」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -1925,14 +1925,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "\\STAMP 286",
+		"jp_text": "St「マルメロ：ガード」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "\\STAMP 287",
+		"jp_text": "St「ヴォルファー：ポージング」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -2030,42 +2030,28 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "St「マルメロ：ガード」",
+		"jp_text": "\\STAMP 301",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "St「ヴォルファー：ポージング」",
+		"jp_text": "\\STAMP 302",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "St「御神苗優：見せてやらぁ」",
+		"jp_text": "\\STAMP 303",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "St「ジャン：始末してやる」",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "St「染井芳乃：超レアものってことよね」",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "St「朧：無駄です」",
+		"jp_text": "\\STAMP 304",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -2080,6 +2066,20 @@
 	},
 	{
 		"jp_text": "St「ロナルディン：行って来い」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "St「斬る」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "St「撃つ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいスタンプが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",

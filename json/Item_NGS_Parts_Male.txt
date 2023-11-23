@@ -987,21 +987,21 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "N-ライナー・ボディ/AF",
+		"jp_text": "N-ライナー・ボディAF",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "N-ライナー・アーム/AF",
+		"jp_text": "N-ライナー・アームAF",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "N-ライナー・レッグ/AF",
+		"jp_text": "N-ライナー・レッグAF",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": "",

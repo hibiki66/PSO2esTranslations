@@ -68,5 +68,33 @@
 		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
 		"tr_explain": "",
 		"assign": 0
+	},
+	{
+		"jp_text": "VG「アイナ（イラスト）」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「マノン（イラスト）」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「ラン（イラスト）」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「『PSO2』10周年B」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
 	}
 ]
