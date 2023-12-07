@@ -2920,7 +2920,7 @@
 	},
 	{
 		"assign": "312010628",
-		"jp_text": "￥古代兵器マグ",
+		"jp_text": "マグフォルム／ガルディアンティコ",
 		"tr_text": "",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
 		"tr_explain": ""
@@ -3187,6 +3187,13 @@
 	{
 		"assign": "312010665",
 		"jp_text": "マグフォルム／モノノフガール",
+		"tr_text": "",
+		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "312010679",
+		"jp_text": "マグフォルム／ホーク",
 		"tr_text": "",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
 		"tr_explain": ""
