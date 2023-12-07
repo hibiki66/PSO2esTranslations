@@ -7,7 +7,7 @@ import regex
 import shutil
 import argparse
 
-json_loc = os.path.join("", "json")
+json_loc = os.path.join("..", "json")
 
 parser = argparse.ArgumentParser(
     description = "Translates ticket item descriptions.")
@@ -25,7 +25,7 @@ LANGS = {-1: "JP",
          3: "CN"}
 # Add more later.
 parser.add_argument("-l", type = int, dest = "lang", action = "store",
-                    choices = [0, 1, 2, 3], default = 3, metavar = "N",
+                    choices = [0, 1, 2, 3], default = 0, metavar = "N",
                     help = ("Set a language to translate into. "
                             "Available options are 0 (EN), 1 (KO), 2 (RU) and 3 (CN). "
                             "Defaults to EN."))
@@ -172,7 +172,7 @@ ngs_locks = ["※Not available in [PSO2] Blocks.",
 
 # JP text: 
     # ※『PSO2』顔バリエーション非対応
-ngsface_locks = ["",
+ngsface_locks = ["※Not compatible with PSO2 faces.",
                                      "",
                                      "",
                                      "※不適用於『PSO2』面部類型"]
@@ -721,11 +721,11 @@ la_extras = {
                 # 対応服指可動／『PSO2』ブロック非対応
             "*actfingersngs": [
                 ("Has button actions/Finger motion\n"
-                 "outfit-limited/Can't use in [PSO2].<c>"),
+                 "outfit-limited/Can't use in [PSO2]."),
                 ("대응 기능: 버튼 파생/대응 복장\n"
-                 "손가락 가동/『PSO2』 블록 비지원<c>"),
+                 "손가락 가동/『PSO2』 블록 비지원"),
                 ("Есть действия/Движен. пальцев\n"
-                 "огранич./Недоступно в [PSO2].<c>"),
+                 "огранич./Недоступно в [PSO2]."),
                 ("※適用功能：按鍵衍生/\n"
                  "適用服裝可動手指/不適用於『PSO2』")
                 ],
@@ -763,7 +763,7 @@ la_extras = {
                 # 対応服指可動／『PSO2』ブロック非対応
             "*reactfingersngs": [
                 ("Has reactions/Finger motion\n"
-                 "outfit-limited/Can't use in [PSO2].<c>"),
+                 "outfit-limited/Can't use in [PSO2]."),
                 (""),
                 (""),
                 ("※適用功能：反應動作/\n"
