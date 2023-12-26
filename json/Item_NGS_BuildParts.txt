@@ -3677,7 +3677,7 @@
 	{
 		"jp_text": "BP「ノクト：屋内ドア」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n開閉できるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -3985,7 +3985,7 @@
 	{
 		"jp_text": "BP「エウロ：屋内ドア」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n開閉できるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -5581,7 +5581,7 @@
 	{
 		"jp_text": "BP「エウロ：ベッド」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -6169,7 +6169,7 @@
 	{
 		"jp_text": "BP「ノクト：シャワー」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\nシャワーを浴びられるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},

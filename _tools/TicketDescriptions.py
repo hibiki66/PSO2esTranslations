@@ -7,7 +7,7 @@ import regex
 import shutil
 import argparse
 
-json_loc = os.path.join("..", "json")
+json_loc = os.path.join("", "json")
 
 parser = argparse.ArgumentParser(
     description = "Translates ticket item descriptions.")
@@ -25,7 +25,7 @@ LANGS = {-1: "JP",
          3: "CN"}
 # Add more later.
 parser.add_argument("-l", type = int, dest = "lang", action = "store",
-                    choices = [0, 1, 2, 3], default = 0, metavar = "N",
+                    choices = [0, 1, 2, 3], default = 3, metavar = "N",
                     help = ("Set a language to translate into. "
                             "Available options are 0 (EN), 1 (KO), 2 (RU) and 3 (CN). "
                             "Defaults to EN."))
@@ -1173,7 +1173,7 @@ cv_names = {
     "一 伊那尓栖": ["Ninomae Ina'nis", "", "", "一 伊那爾棲"],
     "日野 聡": ["Satoshi Hino", "", "", "日野 聰"],
     "原 由実": ["Yumi Hara", "", "", "原 由實"],
-    "闇ノ シュウ": ["Shu Yamino", "", "", "暗之 咒"],
+    "闇ノ シュウ": ["Shu Yamino", "", "", "Shu Yamino"],
     "星川 サラ": ["Hoshikawa Sara", "", "", "星川 莎拉"],
     "葉加瀬 冬雪": ["Hakase Fuyuki", "", "", "葉加瀨 冬雪"],
     "甲斐田 晴": ["Haru Kaida", "", "", "甲斐田 晴"],

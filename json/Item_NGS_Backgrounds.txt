@@ -91,7 +91,28 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Bg「フレズヴェルク＝アーテルG-BAV」",
+		"jp_text": "Bg「フレズヴェルクG-BAV」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ブラックラグーンＡ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「ブラックラグーンＢ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「『七つの大罪』」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -106,6 +127,13 @@
 	},
 	{
 		"jp_text": "Bg「CDジャケット1B」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Bg「マノン（イラスト）」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアークスカードの背景が\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
