@@ -2149,6 +2149,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "Mo「ダッシュ：火炎/B」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "Mo「ダッシュ：ラブリー」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
@@ -3004,13 +3011,6 @@
 	},
 	{
 		"jp_text": "Mo「グライド：FAガールエアバイク」",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
-		"jp_text": "Mo「グライド：火炎/B」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",
