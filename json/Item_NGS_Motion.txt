@@ -2751,13 +2751,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Mo「グライド：エアファイター」",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
 		"jp_text": "Mo「グライド：魔法の絨毯」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",

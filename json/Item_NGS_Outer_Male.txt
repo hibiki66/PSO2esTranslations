@@ -182,14 +182,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "メイヴィユーシア[Ou]",
+		"jp_text": "メイヴィユーシア/B[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "メイヴィユーシア/2[Ou]",
+		"jp_text": "メイヴィユーシア/B2[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "",
@@ -210,14 +210,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "メイヴィユーシア/B[Ou]",
+		"jp_text": "メイヴィユーシア[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "メイヴィユーシア/B2[Ou]",
+		"jp_text": "メイヴィユーシア/2[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "",
@@ -476,13 +476,6 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "サイザーシルエーテ/B2[Ou]",
-		"tr_text": "",
-		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
-		"tr_explain": "",
-		"assign": 0
-	},
-	{
 		"jp_text": "ストライプドユニフォームT1[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
@@ -546,6 +539,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "『NGS』アークストップスT1[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "カランエイランT1[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
@@ -589,6 +589,13 @@
 	},
 	{
 		"jp_text": "Expo2022TシャツT1[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ラプソディーラウドネ/B[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "",
@@ -868,6 +875,34 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ヴィンターシュプールT1[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴィンターシュプールT1/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴィンターシュプールT1-V2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴィンターシュプールT1-V2/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "メルカントT1/B[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
@@ -1086,6 +1121,48 @@
 	},
 	{
 		"jp_text": "ヒハヤノヒヌガ/C[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "オリエストライゼ[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "オリエストライゼ/B[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "オリエストライゼ/C[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "オリエストラウダT1[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "オリエストラウダT1/B[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "オリエストラウダT1/C[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "",
