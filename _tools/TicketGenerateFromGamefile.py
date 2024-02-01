@@ -11,7 +11,7 @@ import unicodedata
 # This tool is used to generate "NGS_" json files
 # or to edit "Stack_" json files from the main game files.
 
-LANG = 2
+LANG = 1
 
 # [ 0 for Non-translation mode ]
 # Will only generate items, and retain the existing translation.
@@ -78,17 +78,17 @@ wiki_urls = {
 # URLs and trade_infos mapping of PSO2/PSO2NGS swiki pages (only for CN)
 suffix_mapping = {
     'ngs_mo': ('モーション', mo_trade_infos),
-    'ngs_bp1': ('クリエイティブスペース%2Fビルドパーツ%2F建材', bp_trade_infos),
-    'ngs_bp2': ('クリエイティブスペース%2Fビルドパーツ%2F建築物・道具・器具', bp_trade_infos),
-    'ngs_bp3': ('クリエイティブスペース%2Fビルドパーツ%2F自然物', bp_trade_infos),
-    'ngs_bp4': ('クリエイティブスペース%2Fビルドパーツ%2F家具', bp_trade_infos),
-    'ngs_bp5': ('クリエイティブスペース%2Fビルドパーツ%2Fギミックパーツ', bp_trade_infos),
-    'ngs_bp6': ('クリエイティブスペース%2Fビルドパーツ%2F立体図形', bp_trade_infos),
-    'ngs_bp7': ('クリエイティブスペース%2Fビルドパーツ%2Fコラボ', bp_trade_infos),
+    'ngs_bp1': ('クリエイティブスペース/ビルドパーツ/建材', bp_trade_infos),
+    'ngs_bp2': ('クリエイティブスペース/ビルドパーツ/建築物・道具・器具', bp_trade_infos),
+    'ngs_bp3': ('クリエイティブスペース/ビルドパーツ/自然物', bp_trade_infos),
+    'ngs_bp4': ('クリエイティブスペース/ビルドパーツ/家具', bp_trade_infos),
+    'ngs_bp5': ('クリエイティブスペース/ビルドパーツ/ギミックパーツ', bp_trade_infos),
+    'ngs_bp6': ('クリエイティブスペース/ビルドパーツ/立体図形', bp_trade_infos),
+    'ngs_bp7': ('クリエイティブスペース/ビルドパーツ/コラボ', bp_trade_infos),
     'ngs_ph': ('ポータブルホログラム', ph_trade_infos),
     'ngs_bg': ('アークスカード', bg_trade_infos),
-    'ngs_vo': ('エステ%2Fボイス', vo_trade_infos),
-    'o2_vo': ('エステ%2Fボイス', vo_trade_infos)}
+    'ngs_vo': ('エステ/ボイス', vo_trade_infos),
+    'o2_vo': ('エステ/ボイス', vo_trade_infos)}
 
 # Path of json folder
 jsonfile_dir = os.path.abspath(os.path.join(root_dir, os.pardir, "json"))
@@ -115,7 +115,7 @@ vo_path = "Item_Stack_Voice.txt"
 
 # [FUNCTION] Load and read the webpage from URL
 def get_web(url):
-    url_part = url.rsplit('/', 1)[-1]
+    url_part = url.rsplit('/', 1)[-1].split('?', 1)[-1]
     # Send the get request
     response = requests.get(url)
     # If successed, load the data
@@ -284,11 +284,6 @@ def form_vo_names(text_id, jp_fulltext, tr_fulltext):
         vo_jp_type, vo_tr_type = ["", "Ｃ", "共通"], ["", "C", "共通"]
         if vo_jp_name.startswith(("追加ボイス", "［ＥＸ］ボイス")):
             vo_jp_suffix = vo_tr_suffix = [""]
-        elif (match_trans := re.search(r"^(.*[\u4e00-\u9fa5])([A-Z])$", vo_tr_name)): # (only compatible with CN)
-            match_jp = re.search(r"^(.*)([Ａ-Ｚ])$", vo_jp_name)
-            vo_jp_name, vo_jp_suffix2 = match_jp.group(1), match_jp.group(2)
-            vo_tr_name, vo_tr_suffix2 = match_trans.group(1), match_trans.group(2)
-            vo_jp_suffix, vo_tr_suffix = ["ボイス"], ["語音"]
         elif re.search(r'.{6,}', vo_jp_name):
             if re.search(r"[Ａ-Ｚ]$", vo_jp_name):
                 vo_jp_suffix, vo_tr_suffix = ["", "ボイス", "Ｖｏ", "　Ｖｏ"], ["", "語音", "語音", "語音"]
@@ -296,6 +291,12 @@ def form_vo_names(text_id, jp_fulltext, tr_fulltext):
                 vo_jp_suffix, vo_tr_suffix = ["", "ボイス","Ｖｏ"], ["", "語音","語音"]
         else:
             vo_jp_suffix, vo_tr_suffix = ["", "ボイス"], ["", "語音"]
+
+    # For the B/C/D... voices (only compatible with CN)
+    if (match_trans := re.search(r"^(.*[\u4e00-\u9fa5])([A-Z])$", vo_tr_name)): 
+        match_jp = re.search(r"^(.*)([Ａ-Ｚ])$", vo_jp_name)
+        vo_jp_name, vo_jp_suffix2 = match_jp.group(1), match_jp.group(2)
+        vo_tr_name, vo_tr_suffix2 = match_trans.group(1), match_trans.group(2)
 
     # Combine
     jp_texts = [f"{vo_gend}{vo_jp_typ}{vo_jp_name_pref}{vo_jp_nam}{vo_jp_suff}{vo_jp_suff2}"
@@ -360,7 +361,7 @@ def get_translation(jp_target_lines, tr_lines):
     return tr_target_texts
 
 # [FUNCTION] Form the item data
-def form_itemdata(item_format, names, texts, ori_explains, rec_descs, trade_info):
+def form_itemdata(item_format, names, texts, jp_text, tr_text, ori_explains, rec_descs, trade_info):
     # Record extra parts of explains
     rec_descs_ex = ["", ""]
 
@@ -393,7 +394,7 @@ def form_itemdata(item_format, names, texts, ori_explains, rec_descs, trade_info
         item["tr_text"] = texts[0]
         item["tr_explain"] = f"<green>“{texts[LANG]}”<c>\n{explains[1]}{rec_descs_ex[1]}"
     # For untranslated items in EN mode
-    elif LANG != 1 and (names[0] == names[LANG]) and re.search(r'[\u4e00-\u9fff\u3040-\u30ff]', names[LANG]):
+    elif LANG != 1 and (names[0] == names[LANG] or jp_text == tr_text) and re.search(r'[\u4e00-\u9fff\u3040-\u30ff]', names[LANG]):
         item["tr_text"] = ""
         item["tr_explain"] = explains[1] + rec_descs_ex[1]
     # For untradable items or EN mode
@@ -418,6 +419,7 @@ def write_to_json(processed_items, jsonfile_dir, path):
     with open(os.path.join(jsonfile_dir, path), "w", encoding='utf-8') as f:
         f.write(processed_lines)
     return
+
 # ——————————————————————————————
 # PRESET PROCESSES
 # ——————————————————————————————
@@ -634,7 +636,7 @@ def extra_condition(prefix, jp_text):
     if prefix == "mo":
        return jp_text.endswith(("EX"))
     elif prefix == "bp":
-        return jp_text.startswith(("エアル：", "リテナ：", "ノクト：", "エウロ：", "クヴァル：", "立体図形：", "ベーシック", "モダン", "クラシック", "ゴシック", "スイーツ", "チャイナ", "ウェスタン", "オリエント", "レトロ", "オールド", "ファンシー", "ラボラトリー", "エレガント", "ナイトクラブ", "ウッディ", "ナイトクラブ", "学校の", "リゾート", "ビンテージ", "ミニ")) and not jp_text.startswith(("ミニミニ"))
+        return jp_text.startswith(("エアル：", "リテナ：", "ノクト：", "エウロ：", "クヴァル：", "ピエト：", "立体図形：", "立体数字：", "ベーシック", "モダン", "クラシック", "ゴシック", "スイーツ", "チャイナ", "ウェスタン", "オリエント", "レトロ", "オールド", "ファンシー", "ラボラトリー", "エレガント", "ナイトクラブ", "ウッディ", "学校の", "リゾート", "ビンテージ", "ミニ")) and not jp_text.startswith(("ミニミニ"))
     elif prefix == "ph":
         return jp_text == ""
     elif prefix == "bg":
@@ -730,7 +732,7 @@ def main_generate_NGS(prefix):
             "assign": 0}
         
         # Generate item
-        item = form_itemdata(item_format, names, texts, explains, rec_descs, trade_info)
+        item = form_itemdata(item_format, names, texts, jp_text, tr_text, explains, rec_descs, trade_info)
         # Form the processed data
         processed_items.append(item)
         processed_item_texts.append(rec_descs[3])
@@ -809,7 +811,7 @@ def main_edit_Stack(prefix):
             for item_format in items_format:
                 assign = item_format["assign"]
                 # Generate item
-                item = form_itemdata(item_format, names, texts, explains, rec_descs, trade_info)
+                item = form_itemdata(item_format, names, texts, jp_text, tr_text, explains, rec_descs, trade_info)
                 for processed_item in processed_items:
                     # Find lines with existing descriptions
                     if processed_item["assign"] == assign:

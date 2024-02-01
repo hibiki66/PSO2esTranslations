@@ -763,6 +763,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "Mo「待機：直立浮遊」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：直立浮遊EX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "Mo「待機：火炎/B」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
@@ -785,6 +799,13 @@
 	},
 	{
 		"jp_text": "Mo「待機：手を振る」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：足を伸ばして座る」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",
@@ -827,6 +848,76 @@
 	},
 	{
 		"jp_text": "Mo「待機：ホークに乗る」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：飛天御剣流」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：リズムに乗る」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：ジャイロランナー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：決めポーズ3」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：気を高める」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：スーパーヒーロー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：うさぴょん」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：イースターエッグ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：キック」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「待機：キックEX」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",
@@ -981,6 +1072,27 @@
 	},
 	{
 		"jp_text": "Mo「ジャンプ：キョンシー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ジャンプ：直立浮遊」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ジャンプ：ジャイロランナー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ジャンプ：スーパーヒーロー」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",
@@ -1149,6 +1261,13 @@
 	},
 	{
 		"jp_text": "Mo「着地：キョンシー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「着地：ジャイロランナー」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",
@@ -1380,6 +1499,34 @@
 	},
 	{
 		"jp_text": "Mo「移動：獣2EX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「移動：直立浮遊」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「移動：飛天御剣流」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「移動：ジャイロランナー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「移動：電車ごっこ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",
@@ -2240,6 +2387,90 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "Mo「ダッシュ：直立浮遊」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：直立浮遊EX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：飛天御剣流」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：プロペラエンジン/B」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：ジャイロランナー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：ジャイロランナーEX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：電車ごっこ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：スーパーヒーロー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：スーパーヒーローEX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：ジェットパック/B」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：イースターエッグ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「ダッシュ：イースターエッグEX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "Mo「グライド：標準」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
@@ -3045,6 +3276,83 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "Mo「グライド：直立浮遊」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：プロペラエンジン/B」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：ジャイロランナー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：ジャイロランナーEX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：スーパーヒーロー」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：スーパーヒーローEX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：イースターエッグ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：イースターエッグEX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：ジェットパック/B」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：キック」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「グライド：キックEX」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "Mo「泳ぐ：標準」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
@@ -3116,6 +3424,13 @@
 	},
 	{
 		"jp_text": "Mo「泳ぐ：ペンギン」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Mo「泳ぐ：イースターエッグ」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいモーションが\n全キャラクターで選択可能になる。\n<yellow>※『PSO2』ブロック非対応<c>",
 		"tr_explain": "",

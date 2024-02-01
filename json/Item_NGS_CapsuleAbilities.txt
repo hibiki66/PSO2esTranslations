@@ -3983,6 +3983,90 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "C/スピレロ・ドライエル",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/レジリロ・ドライエル",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ガーディロ・ドライエル",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/クヴァル・ソブリナ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\nアイテムラボの“強化素材交換”で\n特定のカプセルとの交換にも用いられる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ハイクヴァル・ドミナ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/マグニフ・フュージア",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。\nアイテムラボの“強化素材交換”で\n特定のカプセルとの交換にも用いられる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・アグライⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・エウティⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ギガス・タリアーⅡS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/グランギガス・マエスティ",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/ハイリテナ・ドミナLCS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/グランドレド・キーパLCS",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "C/バーンレジストⅠ",
 		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
@@ -4719,6 +4803,48 @@
 	},
 	{
 		"jp_text": "C/デフィ・セドニスP.03S",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デフィ・エリシスP.04",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デフィ・セイレスP.04",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デフィ・プルトスP.04",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デフィ・マケメスP.04",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デフィ・ハウメスP.04",
+		"tr_text": "",
+		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "C/デフィ・セドニスP.04",
 		"tr_text": "",
 		"jp_explain": "特殊能力を\n武器、防具に追加するカプセル。",
 		"tr_explain": "",

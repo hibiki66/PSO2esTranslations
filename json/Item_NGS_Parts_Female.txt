@@ -308,6 +308,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "デュノプティラ・アーム",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ゲツエイ・アームUC",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
@@ -337,6 +344,13 @@
 	},
 	{
 		"jp_text": "テアナーガ・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "カーラヴェラ・アーム",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -379,6 +393,13 @@
 	},
 	{
 		"jp_text": "ライディー・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ベルタスレイ・アーム/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -700,6 +721,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "デュノプティラ・ボディ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ゲツエイ・ボディUC",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
@@ -729,6 +757,13 @@
 	},
 	{
 		"jp_text": "テアナーガ・ボディ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "カーラヴェラ・ボディ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -770,7 +805,21 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "デュノプティラ・ボディV2",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ライディー・ボディ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ベルタスレイ・ボディ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1078,6 +1127,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "デュノプティラ・レッグ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ゲツエイ・レッグUC",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
@@ -1107,6 +1163,13 @@
 	},
 	{
 		"jp_text": "テアナーガ・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "カーラヴェラ・レッグ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1156,6 +1219,13 @@
 	},
 	{
 		"jp_text": "ライディー・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ベルタスレイ・レッグ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",
