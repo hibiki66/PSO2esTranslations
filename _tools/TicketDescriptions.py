@@ -6,7 +6,7 @@ import os
 import regex
 import argparse
 
-json_loc = os.path.join("", "json")
+json_loc = os.path.join("..", "json")
 
 parser = argparse.ArgumentParser(
     description = "Translates ticket item descriptions.")
@@ -24,7 +24,7 @@ LANGS = {-1: "JP",
          3: "CN"}
 # Add more later.
 parser.add_argument("-l", type = int, dest = "lang", action = "store",
-                    choices = [0, 1, 2, 3], default = 3, metavar = "N",
+                    choices = [0, 1, 2, 3], default = 0, metavar = "N",
                     help = ("Set a language to translate into. "
                             "Available options are 0 (EN), 1 (KO), 2 (RU) and 3 (CN). "
                             "Defaults to EN."))
@@ -1216,11 +1216,11 @@ cv_names = {
     "山口 勝平": ["Kappei Yamaguchi", "", "Каппэй Ямагути", "山口 勝平"],
     "楠 大典": ["Taiten Kusunoki", "", "Таитэн Кусуноки", "楠 大典"],
     "小澤 亜李": ["Ari Ozawa", "", "Ари Одзава", "小澤 亞李"],
-    "天宮 こころ": ["", "", "", "天宮 心"],
-    "長尾 景": ["", "", "", "長尾 景"],
-    "魔使 マオ": ["", "", "", "魔使 真央"],
-    "夜見 れな": ["", "", "", "夜見 蕾娜"],
-    "石見 舞菜香": ["", "", "", "石見 舞菜香"],
+    "天宮 こころ": ["Amamiya Kokoro", "", "", "天宮 心"],
+    "長尾 景": ["Nagao Kei", "", "", "長尾 景"],
+    "魔使 マオ": ["Matsukai Mao", "", "", "魔使 真央"],
+    "夜見 れな": ["Yorumi Rena", "", "", "夜見 蕾娜"],
+    "石見 舞菜香": ["Manaka Iwami", "", "", "石見 舞菜香"],
     "？？？": ["???", "???", "???", "？？？"],
     "": ["Unknown", "알 수 없는", "Неизвестно", ""]
     }
