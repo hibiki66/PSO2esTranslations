@@ -49,6 +49,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "VG「キービジュアルVG4」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "VG「ハルファナ湿原」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
@@ -77,6 +84,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "VG「アイナ（イラスト）B」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "VG「マノン（イラスト）」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
@@ -84,7 +98,21 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "VG「マノン（イラスト）B」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "VG「ラン（イラスト）」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「ナーデレフ（イラスト）」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
 		"tr_explain": "",
@@ -113,6 +141,34 @@
 	},
 	{
 		"jp_text": "VG「『PSO2』10周年D」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「『PSO2』10周年E」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「『PSO2』10周年F」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「『PSO2』10周年G」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「『NGS』2周年」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
 		"tr_explain": "",
