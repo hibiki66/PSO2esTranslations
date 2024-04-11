@@ -307,7 +307,7 @@ def form_vo_names(text_id, jp_fulltext, tr_fulltext):
 
     # For the B/C/D... voices (only compatible with CN)
     if (match_trans := re.search(r"^(.*[\u4e00-\u9fa5])([A-Z])$", vo_tr_name)): 
-        match_jp = re.search(r"^(.*)([Ａ-Ｚ])$", vo_jp_name)
+        match_jp = re.search(r"^(.*)([Ａ-Ｚ]|[A-Z])$", vo_jp_name)
         vo_jp_name, vo_jp_suffix2 = match_jp.group(1), match_jp.group(2)
         vo_tr_name, vo_tr_suffix2 = match_trans.group(1), match_trans.group(2)
 
@@ -581,7 +581,7 @@ vo_explains = [
 
 # [FUNCTION] Conditions and explains of special items
 def edit_sp_explains(prefix, jp_text, explains):
-    if prefix == "aug" and any(keyword in jp_text for keyword in ("フュージア", "ソブリナ", "ファウンデーター")):
+    if prefix == "aug" and any(keyword in jp_text for keyword in ("フュージア", "ソブリナ", "ファウンデーター", "ディロドライエ")):
         explains = [
             f"{explains[0]}\nアイテムラボの“強化素材交換”で\n特定のカプセルとの交換にも用いられる。",
             f"{explains[1]}\n也可在道具實驗室的“交換強化素材”處\n用於交換特定的膠囊。",
