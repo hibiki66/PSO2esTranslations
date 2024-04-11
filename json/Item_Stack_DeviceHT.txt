@@ -3192,6 +3192,20 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "312010677",
+		"jp_text": "マグフォルム／カヌイミニ",
+		"tr_text": "",
+		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "312010678",
+		"jp_text": "マグフォルム／ゼフェットミニ",
+		"tr_text": "",
+		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
+		"tr_explain": ""
+	},
+	{
 		"assign": "312010679",
 		"jp_text": "マグフォルム／ホーク",
 		"tr_text": "",
@@ -3208,6 +3222,27 @@
 	{
 		"assign": "312010680",
 		"jp_text": "マグフォルム／ニュウ",
+		"tr_text": "",
+		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "312010681",
+		"jp_text": "マグフォルム／フィー",
+		"tr_text": "",
+		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "312010682",
+		"jp_text": "マグフォルム／妖精さん",
+		"tr_text": "",
+		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "312010673",
+		"jp_text": "マグフォルム／アイナミニ＆マノンミニ",
 		"tr_text": "",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
 		"tr_explain": ""
