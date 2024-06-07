@@ -1785,6 +1785,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "114010083",
+		"jp_text": "エレディムカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "114010084",
 		"jp_text": "ラジャンティエカタナ",
 		"tr_text": "",
@@ -1808,6 +1815,20 @@
 	{
 		"assign": "114010088",
 		"jp_text": "ロウゼラムカタナ試製壱型",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010091",
+		"jp_text": "ラディアクールカタナ",
+		"tr_text": "",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "114010092",
+		"jp_text": "リクスタルカタナ",
 		"tr_text": "",
 		"jp_explain": "",
 		"tr_explain": ""

@@ -126,6 +126,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "N-エターナルＦ・アーム",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "N-サヤヒメ・アームV2",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
@@ -308,6 +315,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "N-エターナルＦ・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "デュノプティラ・アーム",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
@@ -407,6 +421,13 @@
 	},
 	{
 		"jp_text": "ベルタスレイ・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヘリーファルーテ・アーム/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -533,6 +554,13 @@
 	},
 	{
 		"jp_text": "N-サヤヒメ・ボディ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "N-エターナルＦ・ボディ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -728,6 +756,27 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "N-エターナルＦ・ボディ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "N-エターナルＦ・ボディV2",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "N-エターナルＦ・ボディV2/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "デュノプティラ・ボディ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
@@ -834,6 +883,13 @@
 	},
 	{
 		"jp_text": "ベルタスレイ・ボディ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヘリーファルーテ・ボディ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -960,6 +1016,13 @@
 	},
 	{
 		"jp_text": "N-サヤヒメ・レッグ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "N-エターナルＦ・レッグ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1141,6 +1204,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "N-エターナルＦ・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "デュノプティラ・レッグ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
@@ -1247,6 +1317,13 @@
 	},
 	{
 		"jp_text": "ベルタスレイ・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヘリーファルーテ・レッグ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",

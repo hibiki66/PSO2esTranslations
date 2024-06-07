@@ -273,6 +273,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "N-ハイロウ・アーム",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ヴァンダーファルクス・アーム",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
@@ -323,6 +330,13 @@
 	},
 	{
 		"jp_text": "N-ライナー・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴァンダーファルクス・アーム/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -616,6 +630,20 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "ヴァンダーファルクス・アーム/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴァンダーファルクス・アーム/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ディガーン・ボディ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
@@ -889,6 +917,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "N-ハイロウ・ボディ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ヴァンダーファルクス・ボディ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
@@ -939,6 +974,13 @@
 	},
 	{
 		"jp_text": "N-ライナー・ボディ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴァンダーファルクス・ボディ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1205,6 +1247,20 @@
 	},
 	{
 		"jp_text": "アドミニアル・ボディUC/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴァンダーファルクス・ボディ/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴァンダーファルクス・ボディ/D",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1484,6 +1540,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "N-ハイロウ・レッグ",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ヴァンダーファルクス・レッグ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
@@ -1534,6 +1597,13 @@
 	},
 	{
 		"jp_text": "N-ライナー・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴァンダーファルクス・レッグ/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1821,6 +1891,20 @@
 	},
 	{
 		"jp_text": "アドミニアル・レッグUC/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴァンダーファルクス・レッグ/C",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "ヴァンダーファルクス・レッグ/D",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",
