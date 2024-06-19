@@ -135,7 +135,7 @@
 	{
 		"jp_text": "BP「フトン」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -2802,7 +2802,7 @@
 	{
 		"jp_text": "BP「ウッディソファB」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -2816,7 +2816,7 @@
 	{
 		"jp_text": "BP「ウッディチェアB」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -2830,7 +2830,7 @@
 	{
 		"jp_text": "BP「ウッディベッドB」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -3572,7 +3572,7 @@
 	{
 		"jp_text": "BP「ビンテージベッド」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n横になれるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -3586,14 +3586,14 @@
 	{
 		"jp_text": "BP「ビンテージチェア」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ビンテージソファ」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
@@ -7807,7 +7807,7 @@
 	{
 		"jp_text": "BP「ワフウ：椅子」",
 		"tr_text": "",
-		"jp_explain": "",
+		"jp_explain": "アクセスすると\n座れるビルドパーツ。",
 		"tr_explain": "",
 		"assign": 0
 	},
