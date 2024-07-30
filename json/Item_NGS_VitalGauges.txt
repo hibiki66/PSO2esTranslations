@@ -98,6 +98,34 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "VG「マグナス山」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「ロストセントラル」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「ラトヴァ山」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「ミストラ樹林」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "VG「キービジュアルVG1」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
@@ -175,6 +203,34 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "VG「『PSO2』10周年H」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「『PSO2』10周年I」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「『PSO2』10周年J」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「『PSO2』10周年K」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "VG「『NGS』2周年」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
@@ -232,6 +288,34 @@
 	},
 	{
 		"jp_text": "VG「ナーデレフ（3D）」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「タイヴァス（3D）」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「トゥーリ（3D）」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「クッカ（3D）」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "VG「メリ（3D）」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいバイタルゲージの背景が\nキャラクターで選択可能にんる。",
 		"tr_explain": "",
