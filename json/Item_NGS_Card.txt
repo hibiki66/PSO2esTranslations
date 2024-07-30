@@ -854,14 +854,14 @@
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「闇2：テオドール」",
+		"jp_text": "Ca「闇4：テオドール」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
 	},
 	{
-		"jp_text": "Ca「闇2R：テオドール」",
+		"jp_text": "Ca「闇4R：テオドール」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -904,6 +904,20 @@
 	},
 	{
 		"jp_text": "Ca「闇3R：キュクロナーダ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ca「闇2：テオドール」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ca「闇2R：テオドール」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいカードが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
