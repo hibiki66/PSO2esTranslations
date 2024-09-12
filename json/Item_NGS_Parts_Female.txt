@@ -434,6 +434,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "イフェスティー・アームUC",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ディアーレ・ボディ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
@@ -896,6 +903,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "イフェスティー・ボディUC",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ディアーレ・レッグ",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
@@ -1324,6 +1338,13 @@
 	},
 	{
 		"jp_text": "ヘリーファルーテ・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "イフェスティー・レッグUC",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",

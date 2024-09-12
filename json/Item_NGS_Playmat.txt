@@ -89,5 +89,19 @@
 		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
 		"assign": 0
+	},
+	{
+		"jp_text": "Ma「アイナ＆マノン：CDジャケット」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "Ma「グレン＆カヌイ」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいプレイマットが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
 	}
 ]

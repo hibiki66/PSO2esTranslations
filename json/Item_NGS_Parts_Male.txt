@@ -350,6 +350,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "インフェルド・アーム/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "N-ライナー・アームAF",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
@@ -638,6 +645,20 @@
 	},
 	{
 		"jp_text": "ヴァンダーファルクス・アーム/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "インフェルド・アームUC",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "インフェルド・アームUC/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアームパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -994,6 +1015,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "インフェルド・ボディ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "N-ライナー・ボディAF",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
@@ -1261,6 +1289,20 @@
 	},
 	{
 		"jp_text": "ヴァンダーファルクス・ボディ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "インフェルド・ボディUC",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "インフェルド・ボディUC/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいボディパーツが\n選択可能になる。",
 		"tr_explain": "",
@@ -1617,6 +1659,13 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "インフェルド・レッグ/B",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "N-ライナー・レッグAF",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
@@ -1905,6 +1954,20 @@
 	},
 	{
 		"jp_text": "ヴァンダーファルクス・レッグ/D",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "インフェルド・レッグUC",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "インフェルド・レッグUC/B",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいレッグパーツが\n選択可能になる。",
 		"tr_explain": "",

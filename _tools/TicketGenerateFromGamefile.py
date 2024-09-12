@@ -583,6 +583,7 @@ ca_itypes = {
     "Light": ("光", "光", "Light"),
     "Dark": ("闇", "暗", "Dark")}
 ca_itypes_order = {
+    # Update 0
     # Loop 1
     P.closedopen(10, 130): "Fire",
     P.closedopen(130, 240): "Ice",
@@ -601,7 +602,21 @@ ca_itypes_order = {
     P.closedopen(830, 880): "Wind",
     P.closedopen(880, 920): "Lightning",
     P.closedopen(920, 960): "Light",
-    P.closedopen(960, 99999): "Dark"
+    P.closedopen(960, 1010): "Dark",
+    # Loop 3
+    P.closedopen(750, 790): "Fire",
+    P.closedopen(790, 830): "Ice",
+    P.closedopen(830, 880): "Wind",
+    P.closedopen(880, 920): "Lightning",
+    P.closedopen(920, 960): "Light",
+    P.closedopen(960, 1010): "Dark",
+    # Update 1
+    P.closedopen(1010, 1040): "Fire",
+    P.closedopen(1040, 1090): "Ice",
+    P.closedopen(1090, 1110): "Wind",
+    P.closedopen(1110, 1130): "Lightning",
+    P.closedopen(1130, 1150): "Light",
+    P.closedopen(1150, 99999): "Dark",
     }
 
 # Names of items
@@ -729,7 +744,7 @@ bg_jp_target_lines = [
     if not jp_text.startswith(("￥", "text_"))]
 aug_jp_target_lines = [
     (text_id, jp_text) for text_id, jp_text in element_name_jp_lines
-    if not jp_text.startswith(("ダミー", "レガロ・", "セズン・", "エスペリオ", "EX", "￥", "-"))]
+    if not jp_text.startswith(("ダミー", "レガロ・", "セズン・", "エスペリオ", "EX", "ウェポンコネクタ", "￥", "-"))]
 ou_jp_target_lines = [
     (text_id, jp_text) for text_id, jp_text in charamake_parts_jp_lines
     if re.match(r'^No\d{6}#', text_id)
@@ -809,7 +824,7 @@ def extra_condition(prefix, jp_text):
         return (jp_text.startswith((
         "エアル：", "リテナ：", "ノクト：", "エウロ：", "クヴァル：", "ピエド：", "ワフウ：",
         "『NGS", "『PSO2", "超・", "立体図形：", "立体数字：", "アクリル台座・", "ラインストライク",
-        "ベーシック", "モダン", "クラシック", "ゴシック", "スイーツ", "チャイナ", "ウェスタン", "ワノ", "レトロ", "オールド", "ファンシー", "ラボラトリー", "エレガント", "ナイトクラブ", "ウッディ", "学校の", "リゾート", "ビンテージ",
+        "ベーシック", "モダン", "クラシック", "ゴシック", "スイート", "エキゾチックトラッド", "ウェスタン", "ワノ", "レトロ", "オールド", "ファンシー", "ラボラトリー", "エレガント", "ナイトクラブ", "ウッディ", "学校の", "リゾート", "ビンテージ",
         "ミニ")) and not jp_text.startswith(("ミニミニ"))
         or jp_text.endswith(
         "アクスタ"))
@@ -909,13 +924,11 @@ def main_generate_NGS(prefix):
             irare = "R"
         # Get cost for certain prefixes
         if prefix == "ca":
-            icost = ca_cost_infos.get((jp_text, jp_itype), "")[0]
+            icost = ca_cost_infos.get((jp_text, jp_itype), [""])[0]
             if (jp_text, jp_itype) in ca_cost_infos and ca_cost_infos[(jp_text, jp_itype)]:
                 del ca_cost_infos[(jp_text, jp_itype)][0]
-            if icost == "":
-                icost = record_name(path, jp_text, jp_itype)
-                if icost == "":
-                    icost = "?"
+            if not icost:
+                icost = record_name(path, jp_text, jp_itype) or "?"
 
         # Get names and texts from global variables
         names = [name.format(
