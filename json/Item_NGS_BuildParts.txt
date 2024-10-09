@@ -1793,9 +1793,9 @@
 	},
 	{
 		"jp_text": "BP「丸提灯」",
-		"tr_text": "BP「丸提灯」",
+		"tr_text": "BP「圓提燈」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「圓提燈」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
@@ -1856,16 +1856,16 @@
 	},
 	{
 		"jp_text": "BP「アークスレトロボトル」",
-		"tr_text": "BP「アークスレトロボトル」",
+		"tr_text": "BP「ARKS懷舊酒瓶」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「ARKS懷舊酒瓶」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「ハッポウドリンク」",
-		"tr_text": "BP「ハッポウドリンク」",
+		"tr_text": "BP「氣泡飲料」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「氣泡飲料」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
@@ -4432,9 +4432,9 @@
 	},
 	{
 		"jp_text": "BP「クリスタルプランター」",
-		"tr_text": "BP「クリスタルプランター」",
+		"tr_text": "BP「水晶花盆」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「水晶花盆」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
@@ -11222,16 +11222,16 @@
 	},
 	{
 		"jp_text": "BP「ティーカッププードルぬいぐるみ」",
-		"tr_text": "BP「ティーカッププードルぬいぐるみ」",
+		"tr_text": "BP「茶杯貴賓犬布娃娃」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「茶杯貴賓犬布娃娃」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「インコの置物」",
-		"tr_text": "BP「インコの置物」",
+		"tr_text": "BP「鸚哥擺件」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「鸚哥擺件」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
@@ -11243,79 +11243,79 @@
 	},
 	{
 		"jp_text": "BP「プレーンドーナツ」",
-		"tr_text": "BP「プレーンドーナツ」",
+		"tr_text": "BP「原味甜甜圈」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「原味甜甜圈」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「チョコドーナツ」",
-		"tr_text": "BP「チョコドーナツ」",
+		"tr_text": "BP「巧克力甜甜圈」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「巧克力甜甜圈」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「いちごドーナツ」",
-		"tr_text": "BP「いちごドーナツ」",
+		"tr_text": "BP「草莓甜甜圈」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「草莓甜甜圈」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「パンプキンキャット」",
-		"tr_text": "BP「パンプキンキャット」",
+		"tr_text": "BP「南瓜貓」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「南瓜貓」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートソード」",
-		"tr_text": "BP「エヴォルコートソード」",
+		"tr_text": "BP「進化能量層大劍」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「進化能量層大劍」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートライフル」",
-		"tr_text": "BP「エヴォルコートライフル」",
+		"tr_text": "BP「進化能量層步槍」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「進化能量層步槍」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートランチャー」",
-		"tr_text": "BP「エヴォルコートランチャー」",
+		"tr_text": "BP「進化能量層大炮」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「進化能量層大炮」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートロッド」",
-		"tr_text": "BP「エヴォルコートロッド」",
+		"tr_text": "BP「進化能量層長杖」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「進化能量層長杖」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートスピア」",
-		"tr_text": "BP「エヴォルコートスピア」",
+		"tr_text": "BP「進化能量層長槍」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「進化能量層長槍」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「エヴォルコートボウ」",
-		"tr_text": "BP「エヴォルコートボウ」",
+		"tr_text": "BP「進化能量層強弓」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「進化能量層強弓」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
 		"jp_text": "BP「こなもん」",
-		"tr_text": "BP「こなもん」",
+		"tr_text": "BP「章魚燒」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「章魚燒」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
