@@ -2933,6 +2933,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "312010630",
+		"jp_text": "マグフォルム／カプタン",
+		"tr_text": "",
+		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
+		"tr_explain": ""
+	},
+	{
 		"assign": "312010631",
 		"jp_text": "マグフォルム／ワンダ",
 		"tr_text": "",
@@ -3285,6 +3292,20 @@
 	{
 		"assign": "312010686",
 		"jp_text": "マグフォルム／エムル",
+		"tr_text": "",
+		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "312010692",
+		"jp_text": "マグフォルム／ドゥルガーⅠG",
+		"tr_text": "",
+		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "312010693",
+		"jp_text": "マグフォルム／ドゥルガーⅠG-DQV",
 		"tr_text": "",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
 		"tr_explain": ""

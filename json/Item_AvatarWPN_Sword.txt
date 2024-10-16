@@ -2079,6 +2079,13 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "101010169",
+		"jp_text": "＊リクスタルアルマティCV",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
 		"assign": "1010173",
 		"jp_text": "＊チェインソード",
 		"tr_text": "",
@@ -2128,8 +2135,43 @@
 		"tr_explain": ""
 	},
 	{
+		"assign": "101010170",
+		"jp_text": "＊四ノ宮キコル専用武器",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ダブルセイバー<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "101010174",
+		"jp_text": "＊エクセリオアルマティ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
 		"assign": "101010179",
 		"jp_text": "＊ルイン・ギグルドミナ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ダブルセイバー　ほか<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "101010180",
+		"jp_text": "＊デュオセリオアルマティ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "101010187",
+		"jp_text": "＊ブラッドアルマティ",
+		"tr_text": "",
+		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ワイヤードランス　ほか<c>",
+		"tr_explain": ""
+	},
+	{
+		"assign": "101010188",
+		"jp_text": "＊アハトコンバイト",
 		"tr_text": "",
 		"jp_explain": "装備の見た目を変更する武器迷彩。\n<yellow>※対応：ソード／ダブルセイバー　ほか<c>",
 		"tr_explain": ""
