@@ -1491,6 +1491,62 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "フレーフレラン[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "フレーフレラン/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "フレーフレラン/3[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "フレーフレラン/4[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アルケミスローヴァ[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アルケミスローヴァ/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アルケミスローヴァ/3[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "アルケミスローヴァ/4[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "ファンテルネビラ/B[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
@@ -1499,6 +1555,34 @@
 	},
 	{
 		"jp_text": "ファンテルネビラ/B2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "フラフィニールバニーT1[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "フラフィニールバニーT1/2[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "フラフィニールバニーT1/B[Ou]",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "フラフィニールバニーT1/B2[Ou]",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいアウターウェアが\n選択可能になる。",
 		"tr_explain": "",

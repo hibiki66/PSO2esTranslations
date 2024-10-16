@@ -1435,7 +1435,133 @@
 		"assign": 0
 	},
 	{
+		"jp_text": "PH「怪獣８号アクスタ(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「日比野カフカアクスタ(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「市川レノアクスタ(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「四ノ宮キコルアクスタ(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「亜白ミナアクスタ(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「保科宗四郎アクスタ(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
 		"jp_text": "PH「祭り提灯(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「怪獣８号：ポスター(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「ラインパウダー(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「学校のベンチ(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「会議用テーブル(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「パンプキンキャット(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「エレガントキャンドル(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「エレガントチェア(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「エレガントテーブル(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「ホリデイポスター(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「ホリデーギフト(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「シュトーレン(Ob)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「丸焼きチキン(Ob)」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
@@ -2535,6 +2661,69 @@
 	},
 	{
 		"jp_text": "PH「シャングリラ・フロンティアGL(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「怪獣８号：ロゴ(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「怪獣８号：ロゴGL(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「フォトフレーム(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「フレームアームズ(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「フレームアームズ・ガール(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「キャンドルライン(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「ライズゴースト(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「イドラ：運命分岐(Ef)」",
+		"tr_text": "",
+		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
+		"tr_explain": "",
+		"assign": 0
+	},
+	{
+		"jp_text": "PH「イドラ：限界突破(Ef)」",
 		"tr_text": "",
 		"jp_explain": "使用すると新しいポータブルホログラムが\n全キャラクターで選択可能になる。",
 		"tr_explain": "",
