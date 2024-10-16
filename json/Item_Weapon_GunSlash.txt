@@ -1799,6 +1799,20 @@
 		"tr_explain": "<green>“擴升槍刃”<c>"
 	},
 	{
+		"assign": "17010084",
+		"jp_text": "デュオセリオスラッシュ",
+		"tr_text": "二階擴升槍刃",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "17010085",
+		"jp_text": "トライセリオスラッシュ",
+		"tr_text": "三階擴升槍刃",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "17010088",
 		"jp_text": "マルチウェポン代用材（スラッシュ）",
 		"tr_text": "複合武器代用材（槍刃）",

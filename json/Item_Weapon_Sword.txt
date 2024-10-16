@@ -2107,6 +2107,20 @@
 		"tr_explain": "<green>“擴升大劍”<c>"
 	},
 	{
+		"assign": "11010131",
+		"jp_text": "デュオセリオソード",
+		"tr_text": "二階擴升大劍",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "11010132",
+		"jp_text": "トライセリオソード",
+		"tr_text": "三階擴升大劍",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "11010136",
 		"jp_text": "マルチウェポン代用材（ソード）",
 		"tr_text": "複合武器代用材（大劍）",

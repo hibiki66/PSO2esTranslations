@@ -2072,6 +2072,20 @@
 		"tr_explain": "<green>“擴升步槍”<c>"
 	},
 	{
+		"assign": "18010109",
+		"jp_text": "デュオセリオライフル",
+		"tr_text": "二階擴升步槍",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "18010110",
+		"jp_text": "トライセリオライフル",
+		"tr_text": "三階擴升步槍",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "18010113",
 		"jp_text": "マルチウェポン代用材（ライフル）",
 		"tr_text": "複合武器代用材（步槍）",

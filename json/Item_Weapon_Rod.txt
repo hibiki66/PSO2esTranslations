@@ -2177,6 +2177,20 @@
 		"tr_explain": "<green>“擴升長杖”<c>"
 	},
 	{
+		"assign": "111010121",
+		"jp_text": "デュオセリオロッド",
+		"tr_text": "二階擴升長杖",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "111010122",
+		"jp_text": "トライセリオロッド",
+		"tr_text": "三階擴升長杖",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "111010127",
 		"jp_text": "マルチウェポン代用材（ロッド）",
 		"tr_text": "複合武器代用材（長杖）",

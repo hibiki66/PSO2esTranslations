@@ -679,6 +679,20 @@
 		"tr_explain": "<green>“擴升奏具”<c>"
 	},
 	{
+		"assign": "118010078",
+		"jp_text": "デュオセリオタクト",
+		"tr_text": "二階擴升奏具",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "118010079",
+		"jp_text": "トライセリオタクト",
+		"tr_text": "三階擴升奏具",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "118010082",
 		"jp_text": "マルチウェポン代用材（タクト）",
 		"tr_text": "複合武器代用材（奏具）",

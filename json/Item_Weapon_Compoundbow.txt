@@ -1813,6 +1813,20 @@
 		"tr_explain": "<green>“擴升強弓”<c>"
 	},
 	{
+		"assign": "115010083",
+		"jp_text": "デュオセリオボウ",
+		"tr_text": "二階擴升強弓",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "115010084",
+		"jp_text": "トライセリオボウ",
+		"tr_text": "三階擴升強弓",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "115010086",
 		"jp_text": "マルチウェポン代用材（ボウ）",
 		"tr_text": "複合武器代用材（強弓）",

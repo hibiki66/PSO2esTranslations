@@ -1932,6 +1932,20 @@
 		"tr_explain": "<green>“擴升雙小劍”<c>"
 	},
 	{
+		"assign": "14010110",
+		"jp_text": "デュオセリオダガー",
+		"tr_text": "二階擴升雙小劍",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
+		"assign": "14010111",
+		"jp_text": "トライセリオダガー",
+		"tr_text": "三階擴升雙小劍",
+		"jp_explain": "",
+		"tr_explain": ""
+	},
+	{
 		"assign": "14010114",
 		"jp_text": "マルチウェポン代用材（ダガー）",
 		"tr_text": "複合武器代用材（雙小劍）",
