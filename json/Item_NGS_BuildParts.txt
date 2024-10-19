@@ -4313,9 +4313,9 @@
 	},
 	{
 		"jp_text": "BP「マツタケ」",
-		"tr_text": "BP「マツタケ」",
+		"tr_text": "BP「松茸」",
 		"jp_explain": "",
-		"tr_explain": "<green>“BP「松茸」”<c>\n",
+		"tr_explain": "",
 		"assign": 0
 	},
 	{
