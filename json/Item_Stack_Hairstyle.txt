@@ -15829,30 +15829,30 @@
 	{
 		"assign": "315010414",
 		"jp_text": "市川レノの髪型",
-		"tr_text": "",
+		"tr_text": "市川レノの髪型",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010415",
 		"jp_text": "保科宗四郎の髪型",
-		"tr_text": "",
+		"tr_text": "保科宗四郎の髪型",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010416",
 		"jp_text": "四ノ宮キコルの髪型",
-		"tr_text": "",
+		"tr_text": "四ノ宮キコルの髪型",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010417",
 		"jp_text": "亜白ミナの髪型",
-		"tr_text": "",
+		"tr_text": "亜白ミナの髪型",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010418",
@@ -15878,141 +15878,141 @@
 	{
 		"assign": "315010421",
 		"jp_text": "N-ヨシノテフラヘアー",
-		"tr_text": "",
+		"tr_text": "N-ヨシノテフラヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010422",
 		"jp_text": "ゼロの仮面/B",
 		"tr_text": "ゼロの仮面/B",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010427",
 		"jp_text": "チアーズリットヘアー",
-		"tr_text": "",
+		"tr_text": "チアーズリットヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010428",
 		"jp_text": "タイソヘアー",
-		"tr_text": "",
+		"tr_text": "タイソヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010429",
 		"jp_text": "フレーフレランヘアー",
-		"tr_text": "",
+		"tr_text": "フレーフレランヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010430",
 		"jp_text": "ニフテリーダスヘアー/B",
-		"tr_text": "",
+		"tr_text": "ニフテリーダスヘアー/B",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010431",
 		"jp_text": "トリックキャッシーヘアー",
-		"tr_text": "",
+		"tr_text": "トリックキャッシーヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010432",
 		"jp_text": "アルケミスローヴァヘアー",
-		"tr_text": "",
+		"tr_text": "アルケミスローヴァヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010433",
 		"jp_text": "カールボブ",
-		"tr_text": "",
+		"tr_text": "カールボブ",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010434",
 		"jp_text": "レジェーラヘアー/B",
-		"tr_text": "",
+		"tr_text": "レジェーラヘアー/B",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010435",
 		"jp_text": "ドゥルガーⅠGヘアー",
-		"tr_text": "",
+		"tr_text": "ドゥルガーⅠGヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010436",
 		"jp_text": "ドゥルガーⅠGヘアー/B",
-		"tr_text": "",
+		"tr_text": "ドゥルガーⅠGヘアー/B",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010437",
 		"jp_text": "ジャスパーＬヘアー",
-		"tr_text": "",
+		"tr_text": "ジャスパーＬヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010438",
 		"jp_text": "リンジーヘアー",
-		"tr_text": "",
+		"tr_text": "リンジーヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010439",
 		"jp_text": "オデットヘアー",
-		"tr_text": "",
+		"tr_text": "オデットヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010440",
 		"jp_text": "プリンセヴィージスヘアー",
-		"tr_text": "",
+		"tr_text": "プリンセヴィージスヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010441",
 		"jp_text": "シャギーウルフ",
-		"tr_text": "",
+		"tr_text": "シャギーウルフ",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010442",
 		"jp_text": "フラフィニールヘアー",
-		"tr_text": "",
+		"tr_text": "フラフィニールヘアー",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010443",
 		"jp_text": "スイメイヘアー/B",
-		"tr_text": "",
+		"tr_text": "スイメイヘアー/B",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	},
 	{
 		"assign": "315010444",
 		"jp_text": "リンジーヘアー/B",
-		"tr_text": "",
+		"tr_text": "リンジーヘアー/B",
 		"jp_explain": "使用すると新しいヘアスタイルが\n選択可能になる。",
-		"tr_explain": ""
+		"tr_explain": "使用後可選用新的髪型。"
 	}
 ]

@@ -2935,9 +2935,9 @@
 	{
 		"assign": "312010630",
 		"jp_text": "マグフォルム／カプタン",
-		"tr_text": "",
+		"tr_text": "マグフォルム／カプタン",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
-		"tr_explain": ""
+		"tr_explain": "變更瑪古外觀的裝置。\n<yellow>※僅可在『NGS』中使用<c>"
 	},
 	{
 		"assign": "312010631",
@@ -3294,20 +3294,20 @@
 		"jp_text": "マグフォルム／エムル",
 		"tr_text": "マグフォルム／エムル",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
-		"tr_explain": ""
+		"tr_explain": "變更瑪古外觀的裝置。\n<yellow>※僅可在『NGS』中使用<c>"
 	},
 	{
 		"assign": "312010692",
 		"jp_text": "マグフォルム／ドゥルガーⅠG",
-		"tr_text": "",
+		"tr_text": "マグフォルム／ドゥルガーⅠG",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
-		"tr_explain": ""
+		"tr_explain": "變更瑪古外觀的裝置。\n<yellow>※僅可在『NGS』中使用<c>"
 	},
 	{
 		"assign": "312010693",
 		"jp_text": "マグフォルム／ドゥルガーⅠG-DQV",
-		"tr_text": "",
+		"tr_text": "マグフォルム／ドゥルガーⅠG-DQV",
 		"jp_explain": "マグの見た目を変更するデバイス。\n<yellow>※『NGS』でのみ使用可能<c>",
-		"tr_explain": ""
+		"tr_explain": "變更瑪古外觀的裝置。\n<yellow>※僅可在『NGS』中使用<c>"
 	}
 ]
